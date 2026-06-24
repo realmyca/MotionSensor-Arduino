@@ -8,6 +8,7 @@ I had help from my dad and AI while configuring and coding the project.
 Here are some useful links vv
 
 Library functions:
+
 -> Adafruit-GFX-Library: https://github.com/adafruit/Adafruit-GFX-Library/blob/master/Adafruit_GFX.h
 
 -> MCUFRIEND_kbv: https://github.com/prenticedavid/MCUFRIEND_kbv/blob/master/MCUFRIEND_kbv.h
@@ -15,6 +16,7 @@ Library functions:
 -> Arduino stuff: https://docs.arduino.cc/learn/programming/reference/
 
 Hardware I used:
+
 -> Arduino Mega (I used a knockoff brand but heres the one from Arduino): https://store-usa.arduino.cc/products/arduino-mega-2560-rev3
 
 -> speaker: https://www.seeedstudio.com/Grove-Speaker-p-1445.html
@@ -25,5 +27,7 @@ Hardware I used:
 
 
 Comments:
+
 -> If you plan on copying what I did, I had speaker on pin 49 and motion sensor on pin 53. Also remember to connect 5V pin and GND pin (the ones on the vertical side) onto a breadboard cause the screen uses 90% of the board
+
 -> You can change the volume of the speaker with a small screwdriver (turn the white part)
