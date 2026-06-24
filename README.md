@@ -9,14 +9,20 @@ Here are some useful links vv
 
 Library functions:
 -> Adafruit-GFX-Library: https://github.com/adafruit/Adafruit-GFX-Library/blob/master/Adafruit_GFX.h
+
 -> MCUFRIEND_kbv: https://github.com/prenticedavid/MCUFRIEND_kbv/blob/master/MCUFRIEND_kbv.h
+
 -> Arduino stuff: https://docs.arduino.cc/learn/programming/reference/
 
 Hardware I used:
 -> Arduino Mega (I used a knockoff brand but heres the one from Arduino): https://store-usa.arduino.cc/products/arduino-mega-2560-rev3
+
 -> speaker: https://www.seeedstudio.com/Grove-Speaker-p-1445.html
+
 -> Motion sensor: https://www.seeedstudio.com/Grove-Adjustable-PIR-Motion-Sensor.html
+
 -> 3.5" TFT LCD Shield: https://www.buydisplay.com/arduino-3-5-tft-lcd-touch-shield-serial-spi-example-for-mega-due
+
 
 Comments:
 -> If you plan on copying what I did, I had speaker on pin 49 and motion sensor on pin 53. Also remember to connect 5V pin and GND pin (the ones on the vertical side) onto a breadboard cause the screen uses 90% of the board
