@@ -145,3 +145,5 @@ for meal, payload in result["meals"].items():
 # when at least one meal is valid while still making complete outages visible.
 if ok_count == 0:
     sys.exit(2)
+
+# bridge-v2 trigger
