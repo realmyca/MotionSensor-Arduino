@@ -38,6 +38,7 @@ jobs:
 
       - name: Commit refreshed menu
         run: |
+          git add -N pritchard-menu/current.json 2>/dev/null || true
           if git diff --quiet -- pritchard-menu/current.json; then
             echo "Menu output unchanged."
             exit 0
