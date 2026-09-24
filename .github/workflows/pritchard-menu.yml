@@ -1,0 +1,53 @@
+name: Refresh Pritchard menu
+
+on:
+  push:
+    paths:
+      - "pritchard-menu/fetch_menu.py"
+      - ".github/workflows/pritchard-menu.yml"
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pritchard-menu-refresh
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependency
+        run: python -m pip install --disable-pip-version-check requests
+
+      - name: Fetch today's Nutrislice menu
+        id: fetch
+        continue-on-error: true
+        run: python pritchard-menu/fetch_menu.py
+
+      - name: Commit refreshed menu
+        run: |
+          if git diff --quiet -- pritchard-menu/current.json; then
+            echo "Menu output unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pritchard-menu/current.json
+          git commit -m "Refresh Pritchard menu"
+          git push
+
+      - name: Fail if Nutrislice was completely unreachable
+        if: steps.fetch.outcome == 'failure'
+        run: exit 1
