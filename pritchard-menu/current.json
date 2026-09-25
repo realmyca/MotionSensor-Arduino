@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-24T22:07:17.741646-07:00",
+  "generated_at": "2026-09-25T03:18:52.281075-07:00",
   "timezone": "America/Vancouver",
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "location": "Pritchard Dining Hall, UBC Okanagan",
   "district_candidates": [
     "ubcok"
   ],
   "meals": {
     "breakfast": {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "items": [
         {
-          "name": "Brisket Benny",
+          "name": "Peach Pancake Bites",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "ENGLISH MUFFIN (whole wheat flour, water, yeast, salt, sucrose/glucose-fructose, canola oil, wheat gluten, monocalcium phosphate, calcium propionate, ammonium chloride, acetylated tartaric acid esters of mono and diglycerides, calcium peroxide, ascorbic acid, azodicarbonamide, corn meal), \n\nEGG, \n\nBRISKET (gluten-free soy sauce (water, soybeans, salt, sugar, brewing starter (Aspergillus sojae), sugar, green onion, ginger, garlic, bay leaf, cilantro, beef), \n\nHOLLANDAISE SAUCE (Water, Canola Oil, Cage Free Egg Yolk, Modified Corn Starch, Natural Flavors, Lemon Juice Concentrate, Sea Salt, White Pepper, Acetic Acid, Xanthan And Guar Gum, Natural Color, Phospholipase), \n\nSUNDRIED TOMATO PESTO (tomatoes (tomatoes, tomato juice, citric acid, calcium chloride), water, tomato paste, canola oil, onions, modified cornstarch, sugar, garlic, salt, dextrose, onion powder, garlic powder, spices)",
+          "ingredients": "PEACHES, \n\nPANCAKE BITES (water, enriched wheat flour, sugar, canola oil, modified milk ingredients, dried whole egg, glycerin, baking soda, salt, sodium acid pyrophosphate, citric acid, soy lecithin, natural flavour (milk)), \n\nMAPLE SYRUP, ICING SUGAR",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -23,18 +23,19 @@
           "nutrition": {},
           "dietary_icons": [
             "Egg",
+            "Milk",
             "Soy",
-            "Sulphites",
             "Gluten",
-            "Wheat"
+            "Wheat",
+            "Vegetarian"
           ]
         },
         {
-          "name": "Basic Eggs Benny",
+          "name": "Maple Pancake Bites",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "ENGLISH MUFFIN (whole wheat flour, water, yeast, salt, sucrose/glucose-fructose, canola oil, wheat gluten, monocalcium phosphate, calcium propionate, ammonium chloride, acetylated tartaric acid esters of mono and diglycerides, calcium peroxide, ascorbic acid, azodicarbonamide, corn meal), EGG, HOLLANDAISE SAUCE (water, canola oil, cage free egg yolk, modified corn starch, natural flavors, lemon juice concentrate, sea salt, white pepper, acetic acid, xanthan and guar gum, natural color, phospholipase)",
+          "ingredients": "PANCAKE BITES (water, enriched wheat flour, sugar, canola oil, modified milk ingredients, dried whole egg, glycerin, baking soda, salt, sodium acid pyrophosphate, citric acid, soy lecithin, natural flavour (milk)), \n\nMAPLE SYRUP, \n\nICING SUGAR",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -42,6 +43,7 @@
           "nutrition": {},
           "dietary_icons": [
             "Egg",
+            "Milk",
             "Soy",
             "Gluten",
             "Wheat",
@@ -173,36 +175,36 @@
           ]
         },
         {
-          "name": "Apple Overnight Oats",
+          "name": "Pumpkin Spice Overnight Oats",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "GLUTEN-FREE ROLLED OATS, \n\nORIGINAL SOY MILK (Soy base (filtered water, soybeans), Cane sugar, Vitamin and mineral blend (calcium carbonate, zinc gluconate, vitamin A palmitate, vitamin D2, riboflavin [B2], vitamin B12), Sodium bicarbonate, Sea salt, Natural flavour, Gellan gum), \n\nGRANNY SMITH APPLES, \n\nMAPLE SYRUP, \n\nALLSPICE, CINNAMON, GROUND GINGER, \n\nCHIA SEEDS, \n\nAPPLE JUICE (Pure apple juice, Vitamin C), \n\nSALT",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Soy",
-            "Vegetarian",
-            "Vegan",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Market Smoothie (Carrot Apple)",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "ORANGE JUICE (Fruit juice from concentrate (water, concentrated orange, apple and/or grape [sulfites] juices), Citric acid, Vitamin C, Natural flavour), \n\nSTRAWBERRIES, \n\nCARROT, \n\nAPPLE JUICE (Pure apple juice, Vitamin C)",
+          "ingredients": "GLUTEN-FREE ROLLED OATS, \n\nMAPLE SYRUP, CHIA SEEDS, CINNAMON, SALT, \n\nORIGINAL ALMOND MILK (Water, Cane Sugar, Almonds, Potassium Citrate, Sea Salt, Sunflower Lecithin, Gellan Gum), \n\nNUTMEG, \n\nBUTTERNUT SQUASH, \n\nARTIFICIAL VANILLA EXTRACT (Water, Alcohol, Caramel, Artificial flavour)",
           "serving_size": {
             "amount": "1",
             "unit": "portion"
           },
           "nutrition": {},
           "dietary_icons": [
-            "Sulphites",
+            "Tree Nuts (Almonds)",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Almond Berry Smoothie",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "BANANA, \n\nSTRAWBERRIES, \n\nMANGO, \n\nBLUEBERRIES, \n\nORIGINAL ALMOND MILK (Water, Cane Sugar, Almonds, Potassium Citrate, Sea Salt, Sunflower Lecithin, Gellan Gum)",
+          "serving_size": {
+            "amount": "1",
+            "unit": "portion"
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Tree Nuts (Almonds)",
             "Vegetarian",
             "Vegan",
             "Made Without Gluten"
@@ -2481,24 +2483,24 @@
           ]
         }
       ],
-      "source": "https://ubcok.api.nutrislice.com/menu/api/weeks/school/pritchard/menu-type/breakfast/2026/09/24/?format=json",
+      "source": "https://ubcok.api.nutrislice.com/menu/api/weeks/school/pritchard/menu-type/breakfast/2026/09/25/?format=json",
       "ok": true,
       "attempts": [
         {
-          "url": "https://ubcok.api.nutrislice.com/menu/api/weeks/school/pritchard/menu-type/breakfast/2026/09/24/?format=json",
+          "url": "https://ubcok.api.nutrislice.com/menu/api/weeks/school/pritchard/menu-type/breakfast/2026/09/25/?format=json",
           "status": 200
         }
       ]
     },
     "lunch": {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "items": [
         {
-          "name": "B.Y.O. Pho",
+          "name": "B.Y.O. Breakfast Bowl",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "Build Your Own Pho Bowl - See each component option for allergen and ingredient information.",
+          "ingredients": "Build Your Own Breakfast Bowl - See each component option for allergen and ingredient information.",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -2511,103 +2513,11 @@
           ]
         },
         {
-          "name": "Rice Stick Noodles",
+          "name": "Yam Hash",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "FRESH RICE STICK NOODLES (rice, potato starch, water, soybean oil, sodium benzoate as preservative))",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Soy",
-            "Vegetarian",
-            "Vegan",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Vegetable Pho Broth",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "CARROT, CELERY, ONION, GINGER, \n\nRED MISO PASTE (Soybean, Salt, Rice, Water, Alcohol), \n\nDRIED SHIITAKE MUSHROOM, \n\nSALT, WATER, STAR ANISE, CORIANDER SEED, CINNAMON STICK, \n\nCANOLA OIL, SUGAR",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Soy",
-            "Sulphites",
-            "Vegetarian",
-            "Vegan",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Beef Pho Broth",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "BEEF BASE (salt, sugar, beef fat, dried beef stock, spices, yeast extract, maltodextrin, fish sauce powder (anchovies), disodium guanylate, natural flavours), \n\nWATER, GINGER, ROSEMARY, \n\nFISH SAUCE (anchovy extract, salt, water, fructose, hydrolysed wheat/soy/vegetable protein), \n\nSALT",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Soy",
-            "Gluten",
-            "Wheat",
-            "Fish (Anchovy)"
-          ]
-        },
-        {
-          "name": "Spiced Tofu",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "TOFU (water, soybeans (non-gmo), magnesium chloride, calcium sulfate), \n\nSALT, BROWN SUGAR, \n\nCHINESE FIVE SPICE (Fennel, Anise seed, Ginger (sulphites), Cinnamon, Cloves), \n\nKOREAN HOT PEPPER",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Soy",
-            "Sulphites",
-            "Vegetarian",
-            "Vegan",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Marinated Beef",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "BEEF, \n\nFISH SAUCE (anchovy extract, salt, water, fructose, hydrolysed wheat/soy/vegetable protein), \n\nGF TAMARI SOY SAUCE (Water, Soybeans, Salt, Sugar, Brewing Starter (Aspergillus Sojae)), \n\nCANOLA OIL, \n\nBLACK PEPPER, SUGAR",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Soy",
-            "Gluten",
-            "Wheat",
-            "Fish (Anchovy)"
-          ]
-        },
-        {
-          "name": "Green Onions",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "Green onions",
+          "ingredients": "YAMS, SALT, PAPRIKA, CUMIN, ONION, RED PEPPER, BLACK PEPPER, CANOLA OIL, WHOLE KERNAL CORN",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -2621,175 +2531,11 @@
           ]
         },
         {
-          "name": "Bean Sprouts",
+          "name": "Bacon Fried Potatoes",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "Sprouted Mung Beans",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "No Known Priority Allergens",
-            "Vegetarian",
-            "Vegan",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Shredded Carrot",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "Carrot",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "No Known Priority Allergens",
-            "Vegetarian",
-            "Vegan",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Jalapeno Slices",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "Fresh Jalapeno Peppers",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "No Known Priority Allergens",
-            "Vegetarian",
-            "Vegan",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Lime Wedge",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "Limes",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "No Known Priority Allergens",
-            "Vegetarian",
-            "Vegan",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Hoisin Sauce",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "HOISIN SAUCE (Water, Sugar, Pineapple, Soy Sauce (Water, Fermented Soybeans, Wheat, Salt, Maltodextrin, Salt, Modified Corn Starch, Hydrolyzed (Corn, Soy, Wheat) Protein, Vinegar, Caramel Colour, Ginger, Spices, Xanthan Gum, Cooking Liquor (Alcohol), Sodium Benzoate))",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Soy",
-            "Sulphites",
-            "Gluten",
-            "Wheat",
-            "Vegetarian",
-            "Vegan"
-          ]
-        },
-        {
-          "name": "Sriracha Sauce",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "SRIRACHA (chili, sugar, salt, garlic, acetic acid, potassium sorbate and sodium bisulfite as preservatives, xanthan gum)",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Sulphites",
-            "Vegetarian",
-            "Vegan",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Sambal Oelek Chili Paste",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "SAMBAL OELEK CHILI PASTE (Chili, Salt, Distilled Vinegar, Potassium Sorbate, Sodium Bisulfite, Xanthan Gum)",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Sulphites",
-            "Vegetarian",
-            "Vegan",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Cilantro",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "Cilantro Herb",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "No Known Priority Allergens",
-            "Vegetarian",
-            "Vegan",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Basil",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "Basil",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "No Known Priority Allergens",
-            "Vegetarian",
-            "Vegan",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Veggie Burger Strata",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "TOMATOES, ONION, ICEBERG LETTUCE, \n\nCHEDDAR CHEESE (Pasteurized milk, Modified milk ingredients, Salt, Bacterial culture, Calcium chloride, Microbial enzyme, Annatto, Cellulose, Natamycin), \n\nCORN AND BLACK BEAN SALSA (chipotle pepper, cilantro, corn, lime juice, garlic, salt, red onion, green onion, red pepper, tomatoes, black beans, canola oil), \n\nDILL PICKLES (cucumbers, water, vinegar, salt, calcium chloride, sodium benzoate (preservative)), \n\nPOTATO BITE (potatoes, vegetable oil (canola and/or soybean and/or cottonseed and/or sunflower and/or corn), salt, dehydrated onion, corn starch, sodium phosphate, sugars (dextrose)), \n\nBURGER SAUCE (ketchup (tomato paste (made from fresh ripe tomatoes), liquid sugar, white vinegar, salt, onion powder, spices), mustard (distilled vinegar, water, mustard seed, salt, turmeric, paprika, spice, natural flavors, garlic powder), parsley, steak spice (cayenne, cumin, garlic, paprika, pepper, salt), vegan mayonnaise (Canola oil, Water, Sugar, Vinegar, Salt, Modified corn and potato starch, Concentrated lemon juice, Natural flavour, Spice extract, Calcium disodium EDTA (maintains flavour)), dill pickle (cucumbers, water, vinegar, salt, calcium chloride, sodium benzoate (preservative))",
+          "ingredients": "BUTTER (Pasteurized cream, Annatto), \n\nBACON, \n\nSALT, BLACK PEPPER, \n\nGREEN ONION, \n\nSHREDDED HASHBROWNS (Potatoes, Sea salt, Sodium acid pyrophosphate, Sugars (dextrose))",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -2797,19 +2543,33 @@
           "nutrition": {},
           "dietary_icons": [
             "Milk",
-            "Soy",
-            "Sulphites",
-            "Mustard",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Scrambled Eggs Bhuri",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "LIQUID EGG (Whole egg, Sodium Phosphate, Citric Acid), \n\nBUTTER (Pasteurized cream, Annatto), \n\nCHEDDAR CHEESE SHREDS (Pasteurized milk, Modified milk ingredients, Salt, Bacterial culture, Calcium chloride, Microbial enzyme, Annatto, Cellulose, Natamycin), \n\nGARLIC, GINGER, CORIANDER, TURMERIC, SALT, BLACK PEPPER, CUMIN, RED ONION, TOMATO, CILANTRO,",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Egg",
+            "Milk",
             "Vegetarian",
             "Made Without Gluten"
           ]
         },
         {
-          "name": "Cheeseburger Strata",
+          "name": "Baked Beans",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "GROUND BEEF, SALT, PEPPER, ICEBERG LETTUCE, TOMATOES, ONION, \n\nCHEDDAR CHEESE (Pasteurized milk, Modified milk ingredients, Salt, Bacterial culture, Calcium chloride, Microbial enzyme, Annatto, Cellulose, Natamycin), \n\nDILL PICKLES (cucumbers, water, vinegar, salt, calcium chloride, sodium benzoate (preservative)), \n\nPOTATO BITE (potatoes, vegetable oil (canola and/or soybean and/or cottonseed and/or sunflower and/or corn), salt, dehydrated onion, corn starch, sodium phosphate, sugars (dextrose)),\n\nBURGER SAUCE (ketchup (tomato paste (made from fresh ripe tomatoes), liquid sugar, white vinegar, salt, onion powder, spices), mustard (distilled vinegar, water, mustard seed, salt, turmeric, paprika, spice, natural flavors, garlic powder), parsley, steak spice (cayenne, cumin, garlic, paprika, pepper, salt), vegan mayonnaise (Canola oil, Water, Sugar, Vinegar, Salt, Modified corn and potato starch, Concentrated lemon juice, Natural flavour, Spice extract, Calcium disodium EDTA (maintains flavour)), dill pickle (cucumbers, water, vinegar, salt, calcium chloride, sodium benzoate (preservative)),",
+          "ingredients": "BLACK BEANS,  \n\nWHIPPING CREAM (Cream, Milk, Cellulose gel, Carrageenan, Cellulose gum), \n\nSALT, GARLIC, CUMIN, CANOLA OIL, ONION",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -2817,9 +2577,206 @@
           "nutrition": {},
           "dietary_icons": [
             "Milk",
-            "Soy",
+            "Vegetarian",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Arugula",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "Arugula",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "No Known Priority Allergens",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Charred Tomatoes",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "CHERRY TOMATOES, \n\nRED WINE VINEGAR (5% Acetic acid, sulphites), \n\nLEMON, THYME, OREGANO, OLIVE OIL, GARLIC",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Sulphites",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Sautéed Mushrooms",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "CREMINI MUSHROOMS, BLACK PEPPER, GARLIC, SALT, ROSEMARY, BUTTER (Pasteurized cream, Annatto)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Milk",
+            "Vegetarian",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Spicy Mayo",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "VEGAN MAYONNAISE (Canola oil, Water, Sugar, Vinegar, Salt, Modified corn and potato starch, Concentrated lemon juice, Natural flavour, Spice extract, Calcium disodium EDTA (maintains flavour), \n\nCAYENNE POWDER, \n\nSRIRACHA HOT SAUCE (chili, sugar, salt, garlic, acetic acid, potassium sorbate and sodium bisulfite as preservatives, xanthan gum)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Sulphites",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Dill Pickle Ranch Dressing",
+          "station": null,
+          "category": null,
+          "description": "Salad Dressings Rotate for Variety!",
+          "ingredients": "DILL PICKLE RANCH DRESSING (Canola Oil, Water, Sweet Relish (cucumbers, Sugar/glucose-fructose, Water, Vinegar, Modified Corn Starch, Salt, Calcium Chloride, Potassium Sorbate, Xanthan Gum, Sodium Benzoate, Natural Flavour), Vinegar, Sugar/glucose-fructose, Buttermilk (partly Skimmed Milk, Salt, Bacterial Culture), Egg Yolk, Salt, Dehydrated Dill, Lactic Acid, Dehydrated Onion, Potassium Sorbate, Sodium Benzoate, Buttermilk Powder, Spice Extract, Disodium Inosinate, Disodium Guanylate, Xanthan Gum, Dehydrated Garlic, Natural Flavour, Calcium Disodium Edta, Contains: Mustard))",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Egg",
+            "Milk",
             "Sulphites",
             "Mustard",
+            "Vegetarian",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Ginger Scallion Sauce",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "SALT, GINGER, GREEN ONION, SUGAR, CANOLA OIL",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "No Known Priority Allergens",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Seasoned Tofu",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "TOFU, SESAME OIL, SALT, GINGER, GREEN ONIONS",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Soy",
+            "Sesame",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Salted Chicken",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "CHICKEN, SALT, SESAME OIL, GINGER, GREEN ONIONS",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Sesame",
+            "Halal Protein",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Seasoned Edamame",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "EDAMAME, SALT, SICHUAN CHILI OIL (Canola Oil, Olive Oil, Crushed Red Pepper, Sesame Seeds, Chinese 5 Spice Seasoning (Fennel, Anise seed, Ginger (sulphites), Cinnamon, Cloves), Szechuan Peppercorn, Garlic Powder, Ginger, Korean Hot Pepper Powder)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Soy",
+            "Sesame",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Steamed Broccoli",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "BROCCOLI, OLIVE OIL, SALT, BLACK PEPPER",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "No Known Priority Allergens",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Rice",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "Rice (rice, water)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Vegetarian",
+            "Vegan",
             "Made Without Gluten"
           ]
         },
@@ -2858,46 +2815,61 @@
           ]
         },
         {
-          "name": "Cajun Mushroom Po'Boy",
+          "name": "Falafel Burger",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "HOT DOG BUN (WHITE) (Wheat Flour, Soya Flour, Sugar, Salt, S-500 (dough conditioner), Water, Oil, Yeast), \n\nVEGAN TARTAR SAUCE (dill pickle (cucumbers, water, vinegar, salt, calcium chloride, sodium benzoate, seasonings, turmeric), capers (capers, water, salt, vinegar), dill, vegan mayonnaise (Canola oil, Water, Sugar, Vinegar, Salt, Modified corn and potato starch, Concentrated lemon juice, Natural flavour, Spice extract, Calcium disodium EDTA (maintains flavour), lemon juice, lemon, cayenne, Dijon mustard (mustard seeds, water, vinegar, white wine, salt, sulphites), gluten free soy sauce (water, soybeans, salt, sugar, brewing starter (aspergillus sojae), water), \n\nGARLIC MARGARINE SPREAD (margarine (canola oil, water, modified palm and palm kernel oils, salt, vegetable monoglycerides, soy lecithin, natural flavour, citric acid, vitamin a palmitate, beta carotene, vitamin d2), garlic, oregano, salt), garlic, oregano, salt)), \n\nPICKLED RED ONION (bay leaf, sugar, vinegar red onion, red chili peppers), \n\n\nCAJUN MUSHROOMS (gluten-free drudge  (rice flour white, chickpea flour, psyllium fiber, yeast, spices, konjac root), vegan mayonnaise (Canola oil, Water, Sugar, Vinegar, Salt, Modified corn and potato starch, Concentrated lemon juice, Natural flavour, Spice extract, Calcium disodium EDTA (maintains flavour), water, mushrooms), \n\nTOMATOES, LETTUCE",
+          "ingredients": "FALAFEL PATTY (garam masala, cumin, coriander, turmeric, cilantro, lemon juice, chickpea flour, cauliflower, carrot, onion, green onion, quinoa, canola oil, green lentils, red lentils, garlic, paprika, chickpeas, salt, lime, citric acid, black pepper), \n\nBURGER SAUCE (ketchup (tomato paste (made from fresh ripe tomatoes), liquid sugar, white vinegar, salt, onion powder, spices), mustard (distilled vinegar, water, mustard seed, salt, turmeric, paprika, spice, natural flavors, garlic powder), parsley, steak spice (cayenne, cumin, garlic, paprika, pepper, salt), vegan mayonnaise (Canola oil, Water, Sugar, Vinegar, Salt, Modified corn and potato starch, Concentrated lemon juice, Natural flavour, Spice extract, Calcium disodium EDTA (maintains flavour), dill pickle), \n\nHAMBURGER BUN (enriched wheat flour, water, sugar, yeast, wheat gluten, soybean and/or canola oil, salt, calcium propionate, diacetyl tartaric acid esters of mono- and di-glycerides, sodium stearoyl-2-lactylate, vegetable monoglycerides)), \n\nPICKLES (Cucumbers, Water, Vinegar, Salt, Calcium chloride, Sodium benzoate (preservative), Spices, Tartrazine, Polysorbate 80), \n\nLETTUCE",
           "serving_size": {
             "amount": null,
             "unit": null
           },
           "nutrition": {},
           "dietary_icons": [
-            "Milk",
             "Soy",
             "Sulphites",
             "Mustard",
             "Gluten",
             "Wheat",
-            "Vegetarian"
+            "Vegetarian",
+            "Vegan"
           ]
         },
         {
-          "name": "Cajun Shrimp Po'Boy",
+          "name": "Beef Burger",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "HOT DOG BUN (WHITE) (Wheat Flour, Soya Flour, Sugar, Salt, S-500 (dough conditioner), Water, Oil, Yeast), \n\nCAJUN SHRIMP (cajun (dehydrated garlic, spices and herbs, salt, dehydrated onion, high oleic sunflower oil), shrimp), \n\nVEGAN TARTAR SAUCE (dill pickle (cucumbers, water, vinegar, salt, calcium chloride, sodium benzoate, seasonings, turmeric), capers (capers, water, salt, vinegar), dill, vegan mayonnaise (Canola oil, Water, Sugar, Vinegar, Salt, Modified corn and potato starch, Concentrated lemon juice, Natural flavour, Spice extract, Calcium disodium EDTA (maintains flavour), lemon juice, lemon, cayenne, dijon mustard (mustard seeds, water, vinegar, white wine, salt, sulphites), gluten free soy sauce (water, soybeans, salt, sugar, brewing starter (aspergillus sojae), water), \n\nGARLIC MARGARINE SPREAD (margarine (canola oil, water, modified palm and palm kernel oils, salt, vegetable monoglycerides, soy lecithin, natural flavour, citric acid, vitamin a palmitate, beta carotene, vitamin d2), garlic, oregano, salt), garlic, oregano, salt)), \n\nPICKLED RED ONION (bay leaf, sugar, vinegar red onion, red chili peppers), \n\nTOMATOES, ICEBURG LETTUCE",
+          "ingredients": "BEEF BURGER (Beef, Water, Soy Flour, Soy Protein Concentrate, Salt, Spice (mustard), Onion Powder, Garlic Powder), \n\nBURGER SAUCE (ketchup (tomato paste (made from fresh ripe tomatoes), liquid sugar, white vinegar, salt, onion powder, spices), mustard (distilled vinegar, water, mustard seed, salt, turmeric, paprika, spice, natural flavors, garlic powder), parsley, steak spice (cayenne, cumin, garlic, paprika, pepper, salt), vegan mayonnaise (Canola oil, Water, Sugar, Vinegar, Salt, Modified corn and potato starch, Concentrated lemon juice, Natural flavour, Spice extract, Calcium disodium EDTA (maintains flavour), dill pickle), \n\nPICKLE (Cucumbers, Water, Vinegar, Salt, Calcium Chloride, Sodium Benzoate (preservative), Spices, Tartrazine, Polysorbate 80), \n\nLETTUCE, \n\nHAMBURGER BUN (Enriched Wheat Flour, Water, Sugar, Yeast, Wheat Gluten, Soybean And/or Canola Oil, Salt, Calcium Propionate, Diacetyl Tartaric Acid Esters Of Mono- And Di-glycerides, Sodium Stearoyl-2- Lactylate, Vegetable Monoglycerides)",
           "serving_size": {
             "amount": null,
             "unit": null
           },
           "nutrition": {},
           "dietary_icons": [
-            "Milk",
             "Soy",
             "Sulphites",
             "Mustard",
             "Gluten",
-            "Wheat",
-            "Shellfish (Shrimp)",
-            "Ocean Wise"
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Basic Burger",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "BEEF BURGER (Beef, Water, Soy flour, soy protein concentrate, Salt, Spice (mustard), Onion powder, Garlic powder), \n\nHAMBURGER BUN (enriched wheat flour, water, sugar, yeast, wheat gluten, soybean and/or canola oil, salt, calcium propionate, diacetyl tartaric acid esters of mono- and di-glycerides, sodium stearoyl-2-lactylate, vegetable monoglycerides),",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Soy",
+            "Mustard",
+            "Gluten",
+            "Wheat"
           ]
         },
         {
@@ -3645,24 +3617,22 @@
           "dietary_icons": []
         },
         {
-          "name": "Santa Fe Chicken Pizza",
+          "name": "Chorizo Mushroom Pizza",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "PIZZA DOUGH (Wheat Flour, Salt, Yeast, Water, Olive Oil, Sugar), \n\nMOZZARELLA/MONTEREY JACK CHEESE BLEND (Pasteurized milk, Modified milk ingredients, Salt, Bacterial culture, Calcium chloride, Microbial enzyme, Cellulose, Natamycin), \n\nDILL PICKLE RANCH DRESSING (Canola Oil, Water, Sweet Relish (cucumbers, Sugar/glucose-fructose, Water, Vinegar, Modified Corn Starch, Salt, Calcium Chloride, Potassium Sorbate, Xanthan Gum, Sodium Benzoate, Natural Flavour), Vinegar, Sugar/glucose-fructose, Buttermilk (partly Skimmed Milk, Salt, Bacterial Culture), Egg Yolk, Salt, Dehydrated Dill, Lactic Acid, Dehydrated Onion, Potassium Sorbate, Sodium Benzoate, Buttermilk Powder, Spice Extract, Disodium Inosinate, Disodium Guanylate, Xanthan Gum, Dehydrated Garlic, Natural Flavour, Calcium Disodium Edta), \n\nMILD CHUNKY SALSA (crushed tomatoes (water, crushed tomato concentrate), jalapeno peppers, diced tomatoes (tomatoes, tomato juice, citric acid, calcium chloride), onions, vinegar, salt, dried onions, flavour (contains garlic)), \n\nCILANTRO, CHICKEN, SALT, PEPPER, RED PEPPER, CORN",
+          "ingredients": "PIZZA DOUGH (Wheat Flour, Salt, Yeast, Water, Olive Oil, Sugar), \n\nMOZZARELLA CHEESE (Pasteurized partly skimmed milk, Modified milk ingredients, Salt, Bacterial culture, Calcium chloride, Microbial enzyme), \n\nPIZZA SAUCE (garlic, oregano, salt, olive oil, basil, tomato sauce (fresh vine-ripened pear tomatoes, tomato puree, salt, fresh basil, citric acid), crushed tomatoes (fresh vine-ripened tomatoes, salt, citric acid)), \n\nCHORIZO (cumin, black pepper, pork, garlic, salt, apple cider vinegar, guajillo chili), \n\nBLACK OLIVES, \n\nPEPPERONI (pork, beef, salt, dextrose, lactic acid starter culture, mustard, spice extractives, smoke flavour, dehydrated garlic, sodium nitrite, citric acid, smoke), \n\nSAUTEED MUSHROOMS (canola oil, mushrooms, salt, black pepper)",
           "serving_size": {
             "amount": null,
             "unit": null
           },
           "nutrition": {},
           "dietary_icons": [
-            "Egg",
             "Milk",
             "Sulphites",
             "Mustard",
             "Gluten",
-            "Wheat",
-            "Halal Protein"
+            "Wheat"
           ]
         },
         {
@@ -6990,24 +6960,24 @@
           ]
         }
       ],
-      "source": "https://ubcok.api.nutrislice.com/menu/api/weeks/school/pritchard/menu-type/lunch/2026/09/24/?format=json",
+      "source": "https://ubcok.api.nutrislice.com/menu/api/weeks/school/pritchard/menu-type/lunch/2026/09/25/?format=json",
       "ok": true,
       "attempts": [
         {
-          "url": "https://ubcok.api.nutrislice.com/menu/api/weeks/school/pritchard/menu-type/lunch/2026/09/24/?format=json",
+          "url": "https://ubcok.api.nutrislice.com/menu/api/weeks/school/pritchard/menu-type/lunch/2026/09/25/?format=json",
           "status": 200
         }
       ]
     },
     "dinner": {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "items": [
         {
-          "name": "B.Y.O Burrito",
+          "name": "B.Y.O. Canadian Chinese",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "Build Your Own Burrito Bowl or Wrap - See each component option for allergen and ingredient information.",
+          "ingredients": "Build Your Own Bowl - See each component option for allergen and ingredient information.",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -7021,11 +6991,11 @@
           ]
         },
         {
-          "name": "Whole Wheat Tortilla",
+          "name": "Sweet and Sour Tofu Bites",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "WHOLE WHEAT TORTILLA (Wheat flour, Whole wheat flour, Water, Canola oil, Salt, Soybean oil, Mono- and diglycerides, Sodium acid pyrophosphate, Calcium propionate, Potassium sorbate, Potassium bicarbonate, Calcium lactate, Fumaric acid, Potassium chloride, Seasoning (autolyzed yeast, ammonium chloride), Guar gum, Monocalcium phosphate, L-Cysteine hydrochloride, Amylase)",
+          "ingredients": "TOFU PUFF (Water, Soybeans (non-GMO), Canola oil, Magnesium chloride), \n\nKETCHUP (Tomato paste (from fresh, ripe tomatoes), Sugar, Vinegar, Salt, Spices), \n\nSUGAR, WHITE VINEGAR, SALT, CORNSTARCH, \n\nGREEN PEPPER, RED PEPPER, RED ONION, YELLOW ONION, PINEAPPLE (pineapple, sugar, citric acid), \n\nCANOLA OIL",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -7033,6 +7003,65 @@
           "nutrition": {},
           "dietary_icons": [
             "Soy",
+            "Sulphites",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "General Tso's Chicken",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "GENERAL TSO SAUCE (Golden yellow sugar, chicken soup base (Ground chicken, Salt, Sugars (sugar, corn maltodextrin), Rendered chicken fat, Hydrolyzed wheat, corn and soy protein, Modified milk ingredient, Yeast extract, Onion powder, Hydrogenated cottonseed oil, Disodium inosinate, Disodium guanylate, Vegetable oil, Rosemary extract, Turmeric extract, Flavour (celery)), Shaoxing Wine (rice, water, wheat-based yeast, alcohol), White Vinegar, Rice Vinegar (distilled vinegar, rice vinegar, refiners' syrup, salt, diluted with water to 4.2% acidity), Sesame Oil, Cornstarch, Water)), \n\nTEMPURA CHICKEN PIECES (Chicken breast pieces, Water, Toasted wheat crumbs, Wheat flour, Modified corn starch, Canola and/or soy oil, Rice starch, Soy protein isolate, Modified palm oil, Salt, Sugars (dextrose, sugar), Natural flavour, Sodium phosphate, Baking powder, Methylcellulose, Extratives of annato, Spice extractives), \n\nGARLIC, GINGER, RED THAI CHILI PEPPERS, GREEN ONION, CANOLA OIL",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Milk",
+            "Soy",
+            "Sulphites",
+            "Sesame",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Pork Dry Ribs",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "DRY RIBS (Pork ribs, marinade (Chinese 5 spice, sugar, white pepper, Shaoxing Wine (rice, water, wheat-based yeast, alcohol), GF Tamari Soy Sauce (Water, Soybeans, Salt, Sugar, Brewing Starter (Aspergillus Sojae)), canola oil), Cornstarch)), \n\nRIB SPICE (Chinese 5 spice, salt, white pepper, sugar), \n\nRED THAI CHILI PEPPERS, GARLIC, CILANTRO, GREEN ONION, CANOLA OIL",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Soy",
+            "Sulphites",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chop Suey",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "CABBAGE, CARROT, CELERY, YELLOW ONION, RED PEPPER, GREEN PEPPER, BEAN SPROUTS, \n\nSESAME OIL, GLUTEN-FREE TAMARI SOY SAUCE (Water, Soybeans, Salt, Sugar, Brewing Starter (Aspergillus Sojae)), WATER, \n\nVEGETABLE MIREPOIX (Pureed vegetables (carrots, onions, celery), salt, sugar, corn maltodextrin, vegetable oils (corn, canola, sunflower) water, potato starch, xanthan gum, tapioca dextrin, carrot juice concentrate, autolyzed yeast extract, flavours), \n\nHOISIN SAUCE (Water, Sugar, Pineapple, Soy Sauce (Water, Fermented Soybeans, Wheat, Salt, Maltodextrin, Salt, Modified Corn Starch, Hydrolyzed (Corn, Soy, Wheat) Protein, Vinegar, Caramel Colour, Ginger, Spices, Xanthan Gum, Cooking Liquor (Alcohol), Sodium Benzoate)), \n\nCORNSTARCH, CANOLA OIL",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Soy",
+            "Sulphites",
+            "Sesame",
             "Gluten",
             "Wheat",
             "Vegetarian",
@@ -7040,98 +7069,67 @@
           ]
         },
         {
-          "name": "Cilantro Lime Rice",
+          "name": "Chow Mein Noodles",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "JASMINE RICE, CILANTRO, LIME, SALT",
+          "ingredients": "ENRICHED WHEAT FLOUR, WATER, LIQUID EGG WHITE, LIQUID WHOLE EGG, SALT, SODIUM PROPIONATE, POTASSIUM SORBATE, COLOUR.",
           "serving_size": {
             "amount": null,
             "unit": null
           },
           "nutrition": {},
           "dietary_icons": [
-            "No Known Priority Allergens",
-            "Vegetarian",
-            "Vegan",
-            "Made Without Gluten"
+            "Egg",
+            "Gluten",
+            "Wheat",
+            "Vegetarian"
           ]
         },
         {
-          "name": "Chipotle Plant-Based Shred",
+          "name": "Fried Rice",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "TMRW PLANT-BASED SHREDDED CHICKEN (Water, TMRW Plant Protein (pea protein isolate, GF Oat Flour, Rice Protein, Plant Nutrient Extract Blend (tomato, broccoli, carrot, shiitake mushrooms, cranberry, apple, orange)), Expeller Pressed Canola Oil, Natural Flavours (Yeast Extract, Salt, Coconut Oil, Celery Juice Powder, Carrot Juice Powder, Onion Juice Powder, Herbs), Apple Cider Vinegar, Spices), \n\nCUMIN, PAPRIKA, SALT, ANCHO POWDER, CANOLA OIL, \n\nCHIPOTLE PEPPER IN ADOBE (smoked red jalapeno, water, vinegar, sugar, salt, natural smoke essence, xanthan gum, garlic), \n\nLIME, CORIANDER, GARLIC, WATER, \n\nVEGETABLE MIREPOIX (Pureed vegetables (carrots, onions, celery), salt, sugar, corn maltodextrin, vegetable oils (corn, canola, sunflower) water, potato starch, xanthan gum, tapioca dextrin, carrot juice concentrate, autolyzed yeast extract, flavours)",
+          "ingredients": "JASMIN RICE, \n\nLIQUID EGG (Whole egg, sodium phosphate, citric acid), \n\nSHAOXING WINE (rice, water, wheat-based yeast, alcohol), \n\nSESAME OIL, \n\nYELLOW ONION, CARROT, GREEN ONION, GARLIC, GREEN PEAS, SALT, CANOLA OIL, \n\nSAUCE (Gluten-free tamari soy sauce (Water, Soybeans, Salt, Sugar, Brewing Starter (Aspergillus Sojae)), sugar)",
           "serving_size": {
             "amount": null,
             "unit": null
           },
           "nutrition": {},
           "dietary_icons": [
+            "Egg",
             "Sulphites",
+            "Sesame",
+            "Gluten",
+            "Wheat",
+            "Vegetarian"
+          ]
+        },
+        {
+          "name": "Sichuan Chili Oil",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "CANOLA OIL, OLIVE OIL, CRUSH RED PEPPER FLAKES, SESAME SEED, CHINESE 5 SPICE, SZECHUAN PEPPERCORN, GARLIC POWDER, GINGER, KOREAN HOT PEPPER POWDER",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Sesame",
             "Vegetarian",
             "Vegan",
             "Made Without Gluten"
           ]
         },
         {
-          "name": "Shredded Chicken Tinga",
+          "name": "Red Thai Chili Peppers",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "CHICKEN, ROMA TOMATOES, GARLIC, ONION, \n\nCHIPOTLE PEPPER IN ADOBO (smoked red jalapeno, water, vinegar, sugar, salt, natural smoke essence, xanthan gum, garlic), \n\nVEGETABLE MIREPOIX (Pureed vegetables (carrots, onions, celery), salt, sugar, corn maltodextrin, vegetable oils (corn, canola, sunflower) water, potato starch, xanthan gum, tapioca dextrin, carrot juice concentrate, autolyzed yeast extract, flavours))",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Sulphites",
-            "Halal Protein",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Refried Beans",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "PINTO BEANS, \n\nBACON (Pork, Water, Salt, Sugar, Sodium phosphate, Sodium erythorbate, Sodium nitrite, Smoke), \n\nBUTTER (Pasteurized cream, Annatto), \n\nGARLIC, ONION, SALT, CHIPOTLE PEPPER",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Milk",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Spicy Corn Salsa",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "CORN, \n\nLIME JUICE, GARLIC, SALT, GREEN ONION, \n\nROMA TOMATO, JALAPENO, CANOLA OIL, \n\nCHIPOTLE PEPPER IN ADOBE (smoked red jalapeno, water, vinegar, sugar, salt, natural smoke essence, xanthan gum, garlic)",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Sulphites",
-            "Vegetarian",
-            "Vegan",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Pico de Gallo",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "PICO DE GALLO (cilantro, salt, tomatoes, jalapeno, red onion, lime zest, lime juice, black pepper, canola oil)",
+          "ingredients": "RED THAI CHILI PEPPER",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -7145,11 +7143,11 @@
           ]
         },
         {
-          "name": "Salsa Roja",
+          "name": "Fried Garlic Flakes",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "ROMA TOMATOES, \n\nCHILI DE ARBOL, \n\nONIONS, GARLIC, \n\nVEGETABLE MIREPOIX (Pureed vegetables (carrots, onions, celery), salt, sugar, corn maltodextrin, vegetable oils (corn, canola, sunflower) water, potato starch, xanthan gum, tapioca dextrin, carrot juice concentrate, autolyzed yeast extract, flavours)",
+          "ingredients": "GARLIC, PALM OIL",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -7163,11 +7161,29 @@
           ]
         },
         {
-          "name": "Guacamole",
+          "name": "Sesame Seeds",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "AVOCADO, LIME, CILANTRO, GARLIC, TOMATO, SALT",
+          "ingredients": "Sesame Seeds",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Sesame",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Ginger Scallion Sauce",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "SALT, GINGER, GREEN ONION, SUGAR, CANOLA OIL",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -7181,64 +7197,11 @@
           ]
         },
         {
-          "name": "Cotija Cheese",
+          "name": "Seasoned Tofu",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "PASTURIZED COW'S MILK, SALT, ENZYME, BACTERIAL CULTURE",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Milk",
-            "Vegetarian",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Chipotle Sour Cream",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "SOUR CREAM (Milk ingredients, Modified corn starch, Guar gum, Sodium citrate, Carrageenan, Disodium phosphate, Bacterial culture), \n\nCHIPOTLE PEPPER IN ADOBO (smoked red jalapeno, water, vinegar, sugar, salt, natural smoke essence, xanthan gum, garlic)",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Milk",
-            "Sulphites",
-            "Vegetarian",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Coconut Lime Sour Cream",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "LIME, POTATO STARCH, WATER, COCONUT MILK (Coconut milk, Water, Guar Gum, Cellulose Gum)",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "No Known Priority Allergens",
-            "Vegetarian",
-            "Vegan",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Greek Seasoned Tofu",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "TOFU (firm tofu (water, soybeans (non-GMO), magnesium chloride, calcium sulphate), \n\nGREEK SEASONING (basil, oregano, onion powder, garlic, salt, pepper, lemon, olive oil, lemon zest), \n\nLEMON VINAIGRETTE (lemon juice, apple cider vinegar, olive oil, agave, garlic, mustard (distilled vinegar, water, mustard seed, salt, turmeric, paprika, spice, natural flavors, garlic powder), canola oil), \n\nBASIL",
+          "ingredients": "TOFU, SESAME OIL, SALT, GINGER, GREEN ONIONS",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -7246,56 +7209,35 @@
           "nutrition": {},
           "dietary_icons": [
             "Soy",
-            "Sulphites",
-            "Mustard",
+            "Sesame",
             "Vegetarian",
             "Vegan",
             "Made Without Gluten"
           ]
         },
         {
-          "name": "Roasted Greek Chicken",
+          "name": "Salted Chicken",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "CHICKEN, \n\nGREEK SEASONING (basil, oregano, onion powder, garlic, salt, pepper, lemon, olive oil, lemon zest), \n\nLEMON VINAIGRETTE (lemon juice, apple cider vinegar, olive oil, agave, garlic, grainy mustard (distilled vinegar, water, mustard seed, salt, turmeric, paprika, spice, natural flavors, garlic powder), canola oil), \n\nFETA CHEESE (Ultra Filtered Pasteurized Cow's Milk, Cream,  Milk Protein Concentrate, Microbial Enzyme, Calcium Chloride, Lipase, Bacterial Culture, In Brine (water, Salt, Lactic Acid, Natamycin), \n\nBASIL",
+          "ingredients": "CHICKEN, SALT, SESAME OIL, GINGER, GREEN ONIONS",
           "serving_size": {
             "amount": null,
             "unit": null
           },
           "nutrition": {},
           "dietary_icons": [
-            "Milk",
-            "Sulphites",
-            "Mustard",
+            "Sesame",
             "Halal Protein",
             "Made Without Gluten"
           ]
         },
         {
-          "name": "Basil Rice",
+          "name": "Seasoned Edamame",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "RICE (water, rice), BASIL, SALT",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "No Known Priority Allergens",
-            "Vegetarian",
-            "Vegan",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Mashed Potatoes",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "MASHED POTATOES, CONFIT GARLIC (Garlic, Canola Oil), \n\nVEGAN MARGARINE (canola oil, water, modified palm and palm kernel oil, salt, vegetable monoglycerides, soy lecithin, citric acid, natural flavour, vitamin a palmitate, beta-carotene, vitamin d2), \n\nSALT, BLACK PEPPER, NUTMEG, GREEN ONION",
+          "ingredients": "EDAMAME, SALT, SICHUAN CHILI OIL (Canola Oil, Olive Oil, Crushed Red Pepper, Sesame Seeds, Chinese 5 Spice Seasoning (Fennel, Anise seed, Ginger (sulphites), Cinnamon, Cloves), Szechuan Peppercorn, Garlic Powder, Ginger, Korean Hot Pepper Powder)",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -7303,17 +7245,18 @@
           "nutrition": {},
           "dietary_icons": [
             "Soy",
+            "Sesame",
             "Vegetarian",
             "Vegan",
             "Made Without Gluten"
           ]
         },
         {
-          "name": "Mediterranean Veggies",
+          "name": "Steamed Broccoli",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "GARLIC, OLIVE OIL, SALT, RED PEPPER, RED ONION, BLACK PEPPER, ZUCCHINI, EGGPLANT",
+          "ingredients": "BROCCOLI, OLIVE OIL, SALT, BLACK PEPPER",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -7327,19 +7270,19 @@
           ]
         },
         {
-          "name": "Green Beans",
+          "name": "Rice",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "GREEN BEANS, SALT, BLACK PEPPER, BUTTER (Pasteurized cream, Annatto)",
+          "ingredients": "Rice (rice, water)",
           "serving_size": {
             "amount": null,
             "unit": null
           },
           "nutrition": {},
           "dietary_icons": [
-            "Milk",
             "Vegetarian",
+            "Vegan",
             "Made Without Gluten"
           ]
         },
@@ -7378,68 +7321,31 @@
           ]
         },
         {
-          "name": "Caprese Grilled Cheese",
+          "name": "Sweet Sriracha VCrispy Wrap",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "SOURDOUGH BREAD (Wheat Flour, San Fan Sourdough Base, Wheat Flour, Salt, Encapsulated Fumaric Acid (Fumaric Acid, Modified Palm Oil), Fumaric Acid, L-Cysteine, Hydrochloride, Amylase, Yeast, S-500), \n\nMOZZARELLA CHEESE (Pasteurized milk, Modified milk ingredients, Salt, Bacterial culture, Calcium chloride, Microbial enzyme, Cellulose, Natamycin),\n\nKALE PESTO (Kale, Basil, Salt, Garlic, Canola Oil, Olive Oil, Lemon Juice), \n\nBALSAMIC REDUCTION (Balsamic vinegar of Modena, Italy, granulated cane sugar (non GMO). Contains naturally occurring sulphites), \n\nROMA TOMATO, BASIL, ARUGULA",
+          "ingredients": "TORTILLA (wheat flour (whole wheat flour, enriched wheat flour), water, vegetable oil, baking powder, salt, modified corn starch, yeast), \n\nSRIRACHA (chili, sugar, salt, garlic, distilled vinegar, potassium sorbate, sodium bisulfite as preservatives, and xanthan gum), \n\nVEGAN MAYONNAISE (Canola oil, Water, Sugar, Vinegar, Salt, Modified corn and potato starch, Concentrated lemon juice, Natural flavour, Spice extract, Calcium disodium EDTA (maintains flavour),  \n\nCRISPY TOFU (Tofu (Water, Soybeans (non-GMO), Magnesium Chloride, Calcium Sulphate), Corn Starch, Salt), \n\nBLUE AGAVE SYRUP, LETTUCE, CARROT, GREEN ONION,",
           "serving_size": {
             "amount": null,
             "unit": null
           },
           "nutrition": {},
           "dietary_icons": [
-            "Milk",
+            "Soy",
             "Sulphites",
             "Gluten",
             "Wheat",
-            "Vegetarian"
+            "Vegetarian",
+            "Vegan"
           ]
         },
         {
-          "name": "Pizza Sub",
+          "name": "Honey Sriracha Crispy Chicken Wrap",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "FRENCH BAGUETTE (Wheat Flour, Sour (Old Dough) Artisan, Yeast, Salt),\n\nPEPPERONI (Pork, Beef, Salt, Sugars (dextrose), Spice, Spice Extract, Sodium Erythorbate, Garlic Powder, Smoke Flavour, Lactic Acid, Starter Culture, Sodium Nitrite, Contains Mustard), \n\nHOT CAPICOLA HAM (Pork, Water, Salt, Spices, Sugar, Sodium Ascorbate, Dextrose, Spice Extract, Flavour, Sodium Nitrite),\n\nMOZZARELLA CHEESE (Pasteurized milk, Modified milk ingredients, Salt, Bacterial culture, Calcium chloride, Microbial enzyme, Cellulose, Natamycin),\n\nMARINARA SAUCE (Tomatoes, Fennel Seed, Garlic, Basil, Olive Oil, Salt, Black Pepper, Onions),\n\nPARSLEY",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Milk",
-            "Sulphites",
-            "Mustard",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Baked Tortellini Marinara",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "TORTELLINI (pasta: durum wheat semolina, water, liquid whole egg, liquid egg yolk, tomato powder, spinach powder, spice. filling: cheese (ricotta, romano, parmesan, fontina), toasted wheat crumbs, whey, canola oil, natural flavour, salt, garlic powder, onion powder),  SALT, \n\nMARINARA (fennel seed, pepper, tomato, garlic, onions, basil, olive oil, salt)), \n\nMOZZARELLA CHEESE (Pasteurized milk, Modified milk ingredients, Salt, Bacterial culture, Calcium chloride, Microbial enzyme, Cellulose, Natamycin)",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Egg",
-            "Milk",
-            "Gluten",
-            "Wheat",
-            "Vegetarian"
-          ]
-        },
-        {
-          "name": "Creamy Carbonara Penne",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "WHOLE WHEAT PENNE (Whole Grain Durum Wheat Flour, Water, Salt, Canola Oil), \n\nMOZZARELLA CHEESE (Pasteurized milk, Modified milk ingredients, Salt, Bacterial culture, Calcium chloride, Microbial enzyme, Cellulose, Natamycin), \n\nCARBONARA SAUCE (Butter (Pasteurized cream, Annatto), Garlic, Water, Wheat Flour,  \n\nParmesan cheese (Milk, Modified milk ingredients, Salt, Bacterial culture, Calcium chloride, Lipase, Microbial enzyme), Cellulose powder, Potassium sorbate), \n\nOnion, Mushroom, Milk, \n\nChicken Soup Base (Ground chicken, Salt, Sugars (sugar, corn maltodextrin), \n\nRendered chicken fat, Hydrolyzed wheat, corn and soy protein, Modified milk ingredient, Yeast extract, Onion powder, \n\nHydrogenated cottonseed oil, Disodium inosinate, Disodium guanylate, Vegetable oil, \n\nRosemary extract, Turmeric extract, Flavour (celery)), \n\nGreen Peas, \n\nWhipping Cream (Cream, Milk, Cellulose gel, Carrageenan, Cellulose gum), Canola Oil, \n\nBacon)",
+          "ingredients": "BREADED CHICKEN TENDERS (chicken breast fillets, water, soy protein isolate, salt, flavour, breading  (toasted wheat crumbs, water, wheat flour, canola oil, corn starch, durum flour, whey powder (milk), spices, salt, garlic powder, guar gum)), \n\nTORTILLA (wheat flour (whole wheat flour, enriched wheat flour), water, vegetable oil, baking powder, salt, modified corn starch, yeast), \n\nSRIRACHA (chili, sugar, salt, garlic, distilled vinegar, potassium sorbate, sodium bisulfite as preservatives, and xanthan gum), \n\nVEGAN MAYONNAISE (Canola oil, Water, Sugar, Vinegar, Salt, Modified corn and potato starch, Concentrated lemon juice, Natural flavour, Spice extract, Calcium disodium EDTA (maintains flavour), \n\nLETTUCE, CARROT, GREEN ONION, HONEY",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -7448,29 +7354,29 @@
           "dietary_icons": [
             "Milk",
             "Soy",
+            "Sulphites",
             "Gluten",
-            "Wheat"
+            "Wheat",
+            "Halal Protein"
           ]
         },
         {
-          "name": "Santa Fe Chicken Pizza",
+          "name": "Chorizo Mushroom Pizza",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "PIZZA DOUGH (Wheat Flour, Salt, Yeast, Water, Olive Oil, Sugar), \n\nMOZZARELLA/MONTEREY JACK CHEESE BLEND (Pasteurized milk, Modified milk ingredients, Salt, Bacterial culture, Calcium chloride, Microbial enzyme, Cellulose, Natamycin), \n\nDILL PICKLE RANCH DRESSING (Canola Oil, Water, Sweet Relish (cucumbers, Sugar/glucose-fructose, Water, Vinegar, Modified Corn Starch, Salt, Calcium Chloride, Potassium Sorbate, Xanthan Gum, Sodium Benzoate, Natural Flavour), Vinegar, Sugar/glucose-fructose, Buttermilk (partly Skimmed Milk, Salt, Bacterial Culture), Egg Yolk, Salt, Dehydrated Dill, Lactic Acid, Dehydrated Onion, Potassium Sorbate, Sodium Benzoate, Buttermilk Powder, Spice Extract, Disodium Inosinate, Disodium Guanylate, Xanthan Gum, Dehydrated Garlic, Natural Flavour, Calcium Disodium Edta), \n\nMILD CHUNKY SALSA (crushed tomatoes (water, crushed tomato concentrate), jalapeno peppers, diced tomatoes (tomatoes, tomato juice, citric acid, calcium chloride), onions, vinegar, salt, dried onions, flavour (contains garlic)), \n\nCILANTRO, CHICKEN, SALT, PEPPER, RED PEPPER, CORN",
+          "ingredients": "PIZZA DOUGH (Wheat Flour, Salt, Yeast, Water, Olive Oil, Sugar), \n\nMOZZARELLA CHEESE (Pasteurized partly skimmed milk, Modified milk ingredients, Salt, Bacterial culture, Calcium chloride, Microbial enzyme), \n\nPIZZA SAUCE (garlic, oregano, salt, olive oil, basil, tomato sauce (fresh vine-ripened pear tomatoes, tomato puree, salt, fresh basil, citric acid), crushed tomatoes (fresh vine-ripened tomatoes, salt, citric acid)), \n\nCHORIZO (cumin, black pepper, pork, garlic, salt, apple cider vinegar, guajillo chili), \n\nBLACK OLIVES, \n\nPEPPERONI (pork, beef, salt, dextrose, lactic acid starter culture, mustard, spice extractives, smoke flavour, dehydrated garlic, sodium nitrite, citric acid, smoke), \n\nSAUTEED MUSHROOMS (canola oil, mushrooms, salt, black pepper)",
           "serving_size": {
             "amount": null,
             "unit": null
           },
           "nutrition": {},
           "dietary_icons": [
-            "Egg",
             "Milk",
             "Sulphites",
             "Mustard",
             "Gluten",
-            "Wheat",
-            "Halal Protein"
+            "Wheat"
           ]
         },
         {
@@ -11066,11 +10972,11 @@
           ]
         }
       ],
-      "source": "https://ubcok.api.nutrislice.com/menu/api/weeks/school/pritchard/menu-type/dinner/2026/09/24/?format=json",
+      "source": "https://ubcok.api.nutrislice.com/menu/api/weeks/school/pritchard/menu-type/dinner/2026/09/25/?format=json",
       "ok": true,
       "attempts": [
         {
-          "url": "https://ubcok.api.nutrislice.com/menu/api/weeks/school/pritchard/menu-type/dinner/2026/09/24/?format=json",
+          "url": "https://ubcok.api.nutrislice.com/menu/api/weeks/school/pritchard/menu-type/dinner/2026/09/25/?format=json",
           "status": 200
         }
       ]
