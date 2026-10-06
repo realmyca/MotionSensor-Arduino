@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:24:49.351326-07:00",
+  "generated_at": "2026-10-06T16:54:22.948953-07:00",
   "timezone": "America/Vancouver",
   "date": "2026-10-06",
   "location": "Pritchard Dining Hall, UBC Okanagan",
@@ -1776,6 +1776,25 @@
             "Sulphites",
             "Vegetarian",
             "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Thousand Island Salad Dressing",
+          "station": null,
+          "category": null,
+          "description": "Salad Dressings Rotate for Variety!",
+          "ingredients": "water, soybean oil, sugars (sugar/glucose-fructose, sugar), vinegar, relish, modified corn starch, liquid egg yolk, tomato paste, salt, spices, potassium sorbate, sodium benzoate, xanthan gum, dehydrated onion, seasoning, natural flavour, caramel colour, paprika oleoresin, calcium disodium EDTA, dehydrated garlic, paprika extract, natural turmeric extract",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Egg",
+            "Soy",
+            "Sulphites",
+            "Vegetarian",
             "Made Without Gluten"
           ]
         },
@@ -4638,6 +4657,25 @@
             "Sulphites",
             "Vegetarian",
             "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Thousand Island Salad Dressing",
+          "station": null,
+          "category": null,
+          "description": "Salad Dressings Rotate for Variety!",
+          "ingredients": "water, soybean oil, sugars (sugar/glucose-fructose, sugar), vinegar, relish, modified corn starch, liquid egg yolk, tomato paste, salt, spices, potassium sorbate, sodium benzoate, xanthan gum, dehydrated onion, seasoning, natural flavour, caramel colour, paprika oleoresin, calcium disodium EDTA, dehydrated garlic, paprika extract, natural turmeric extract",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Egg",
+            "Soy",
+            "Sulphites",
+            "Vegetarian",
             "Made Without Gluten"
           ]
         },
@@ -8677,6 +8715,25 @@
             "Sulphites",
             "Vegetarian",
             "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Thousand Island Salad Dressing",
+          "station": null,
+          "category": null,
+          "description": "Salad Dressings Rotate for Variety!",
+          "ingredients": "water, soybean oil, sugars (sugar/glucose-fructose, sugar), vinegar, relish, modified corn starch, liquid egg yolk, tomato paste, salt, spices, potassium sorbate, sodium benzoate, xanthan gum, dehydrated onion, seasoning, natural flavour, caramel colour, paprika oleoresin, calcium disodium EDTA, dehydrated garlic, paprika extract, natural turmeric extract",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Egg",
+            "Soy",
+            "Sulphites",
+            "Vegetarian",
             "Made Without Gluten"
           ]
         },
