@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T13:56:41.027063-07:00",
+  "generated_at": "2026-10-05T18:35:49.855385-07:00",
   "timezone": "America/Vancouver",
   "date": "2026-10-05",
   "location": "Pritchard Dining Hall, UBC Okanagan",
@@ -7465,24 +7465,6 @@
           ]
         },
         {
-          "name": "Baked Mac and Cheese",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "TOPPING (panko (rice flour, pea protein, dextrose), oregano, salt, pepper, parm cheese), \n\nMACARONI (durum semolina (from wheat), niacin, ferrous sulphate (iron), riboflavin (b2), thiamine mononitrate (b1), folic acid), \n\nCHEESE SAUCE (bechamel sauce (milk, butter, nutmeg, flour, bay leaf, cloves, onion), milk, whipping cream, cheddar cheese, cream cheese (milk ingredients, salt, carob bean gum, bacterial culture, sorbic acid), salt, garlic),",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Milk",
-            "Gluten",
-            "Wheat",
-            "Vegetarian"
-          ]
-        },
-        {
           "name": "Baked Vegan Mac and Cheese",
           "station": null,
           "category": null,
@@ -7498,6 +7480,24 @@
             "Wheat",
             "Vegetarian",
             "Vegan"
+          ]
+        },
+        {
+          "name": "Baked Mac and Cheese",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "TOPPING (panko (rice flour, pea protein, dextrose), oregano, salt, pepper, parm cheese), \n\nMACARONI (durum semolina (from wheat), niacin, ferrous sulphate (iron), riboflavin (b2), thiamine mononitrate (b1), folic acid), \n\nCHEESE SAUCE (bechamel sauce (milk, butter, nutmeg, flour, bay leaf, cloves, onion), milk, whipping cream, cheddar cheese, cream cheese (milk ingredients, salt, carob bean gum, bacterial culture, sorbic acid), salt, garlic),",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Milk",
+            "Gluten",
+            "Wheat",
+            "Vegetarian"
           ]
         },
         {
