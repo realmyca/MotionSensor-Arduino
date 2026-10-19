@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:33:14.837412-07:00",
+  "generated_at": "2026-10-19T16:55:00.130138-07:00",
   "timezone": "America/Vancouver",
   "date": "2026-10-19",
   "location": "Pritchard Dining Hall, UBC Okanagan",
@@ -3804,11 +3804,11 @@
           ]
         },
         {
-          "name": "Farfalle Pasta",
+          "name": "Scoobi Doo Pasta (Cavatappi)",
           "station": null,
           "category": null,
           "description": "Featured Noodle - Subject to Availability",
-          "ingredients": "Farfalle/Bowtie Pasta (Durum Wheat Semolina, Niacin, Ferrous Sulphate, Thiamin, Riboflavin, Folic Acid), Salt, Canola Oil",
+          "ingredients": "Cavatappi Scoobi Doo Pasta (Durum Wheat Semolina, Niacin, Ferrous Sulphate, Thiamin, Riboflavin, Folic Acid), Salt, Canola Oil",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -7666,7 +7666,7 @@
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "GROUND BEEF, YELLOW ONION, CUMIN, BLACK PEPPER, SALT, CANOLA OIL, GARLIC, SMOKED PAPRIKA, CRUSHED RED CHILI PEPPER, MINT, ALLSPICE, BAKING SODA, LEMON JUICE, PARSLEY, LENTILS, \n\nLIQUID EGG (Whole egg, Sodium Phosphate, Citric Acid), \n\n\nGF PANKO CRUMBS (Rice Flour, Pea Protein, Dextrose)",
+          "ingredients": "GROUND BEEF, YELLOW ONION, CUMIN, BLACK PEPPER, SALT, CANOLA OIL, GARLIC, SMOKED PAPRIKA, CRUSHED RED CHILI PEPPER, MINT, ALLSPICE, BAKING SODA, LEMON JUICE, PARSLEY, LENTILS, \n\nLIQUID EGG (Whole egg, Sodium Phosphate, Citric Acid), \n\nPANKO CRUMBS (Wheat flour, cane sugar, yeast, salt)",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -7674,7 +7674,8 @@
           "nutrition": {},
           "dietary_icons": [
             "Egg",
-            "Made Without Gluten"
+            "Gluten",
+            "Wheat"
           ]
         },
         {
@@ -8108,11 +8109,11 @@
           ]
         },
         {
-          "name": "Farfalle Pasta",
+          "name": "Scoobi Doo Pasta (Cavatappi)",
           "station": null,
           "category": null,
           "description": "Featured Noodle - Subject to Availability",
-          "ingredients": "Farfalle/Bowtie Pasta (Durum Wheat Semolina, Niacin, Ferrous Sulphate, Thiamin, Riboflavin, Folic Acid), Salt, Canola Oil",
+          "ingredients": "Cavatappi Scoobi Doo Pasta (Durum Wheat Semolina, Niacin, Ferrous Sulphate, Thiamin, Riboflavin, Folic Acid), Salt, Canola Oil",
           "serving_size": {
             "amount": null,
             "unit": null
