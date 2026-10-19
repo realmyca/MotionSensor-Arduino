@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T08:01:18.769517-07:00",
+  "generated_at": "2026-10-19T13:33:14.837412-07:00",
   "timezone": "America/Vancouver",
   "date": "2026-10-19",
   "location": "Pritchard Dining Hall, UBC Okanagan",
@@ -275,11 +275,101 @@
           ]
         },
         {
-          "name": "Assorted Fruit",
+          "name": "Tri-Berry Blend",
           "station": null,
           "category": null,
-          "description": "Subject to Availability - On Rotation",
-          "ingredients": "Strawberries, mangos, pears, melons, raspberries, pineapple, honeydew, or cantaloupe (in their own juices - no sugar added)",
+          "description": "On Rotation - Subject to Availability",
+          "ingredients": "Blueberries, Blackberries, Raspberries (in their own juice, no sugar added)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "No Known Priority Allergens",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Blueberries",
+          "station": null,
+          "category": null,
+          "description": "On Rotation - Subject to Availability",
+          "ingredients": "Blackberries (in their own juice, no sugar added)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "No Known Priority Allergens",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Blackberries",
+          "station": null,
+          "category": null,
+          "description": "On Rotation - Subject to Availability",
+          "ingredients": "Blackberries (in their own juice, no sugar added)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "No Known Priority Allergens",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Strawberries",
+          "station": null,
+          "category": null,
+          "description": "On Rotation - Subject to Availability",
+          "ingredients": "Strawberries (in their own juice, no sugar added)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "No Known Priority Allergens",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Pineapple Chunks",
+          "station": null,
+          "category": null,
+          "description": "On Rotation - Subject to Availability",
+          "ingredients": "Pineapple chunks (in its own juice, no sugar added)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "No Known Priority Allergens",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Mango Chunks",
+          "station": null,
+          "category": null,
+          "description": "On Rotation - Subject to Availability",
+          "ingredients": "Mango chunks (in their own juice, no sugar added)",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -296,7 +386,7 @@
           "name": "Diced Peaches",
           "station": null,
           "category": null,
-          "description": "On Rotation",
+          "description": "On Rotation - Subject to Availability",
           "ingredients": "DICED PEACHES, PEAR JUICE, CITRIC ACID, WATER",
           "serving_size": {
             "amount": null,
@@ -5108,11 +5198,101 @@
           ]
         },
         {
-          "name": "Assorted Fruit",
+          "name": "Tri-Berry Blend",
           "station": null,
           "category": null,
-          "description": "Subject to Availability - On Rotation",
-          "ingredients": "Strawberries, mangos, pears, melons, raspberries, pineapple, honeydew, or cantaloupe (in their own juices - no sugar added)",
+          "description": "On Rotation - Subject to Availability",
+          "ingredients": "Blueberries, Blackberries, Raspberries (in their own juice, no sugar added)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "No Known Priority Allergens",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Blueberries",
+          "station": null,
+          "category": null,
+          "description": "On Rotation - Subject to Availability",
+          "ingredients": "Blackberries (in their own juice, no sugar added)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "No Known Priority Allergens",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Blackberries",
+          "station": null,
+          "category": null,
+          "description": "On Rotation - Subject to Availability",
+          "ingredients": "Blackberries (in their own juice, no sugar added)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "No Known Priority Allergens",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Strawberries",
+          "station": null,
+          "category": null,
+          "description": "On Rotation - Subject to Availability",
+          "ingredients": "Strawberries (in their own juice, no sugar added)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "No Known Priority Allergens",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Pineapple Chunks",
+          "station": null,
+          "category": null,
+          "description": "On Rotation - Subject to Availability",
+          "ingredients": "Pineapple chunks (in its own juice, no sugar added)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "No Known Priority Allergens",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Mango Chunks",
+          "station": null,
+          "category": null,
+          "description": "On Rotation - Subject to Availability",
+          "ingredients": "Mango chunks (in their own juice, no sugar added)",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -5129,7 +5309,7 @@
           "name": "Diced Peaches",
           "station": null,
           "category": null,
-          "description": "On Rotation",
+          "description": "On Rotation - Subject to Availability",
           "ingredients": "DICED PEACHES, PEAR JUICE, CITRIC ACID, WATER",
           "serving_size": {
             "amount": null,
@@ -7466,7 +7646,7 @@
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "FALAFEL (Garlic, Chickpeas, Garam masala, Cumin, Coriander, Turmeric, Curry power, Cilantro, Lemon juice, Chickpea Flour, Lentils, Cauliflower, Carrot, Yellow onion, Green onion, Quinoa, Canola Oil), \n\nPEPPERONCINI (Peppers, Water, Salt, Acetic Acid, Citric Acid, Sodium Benzoate, Sodium Bisulphite, Tartrazine), \n\nPITA BREAD (Enriched Wheat Flour, Water, Soybean And/or Canola Oil, Yeast, Sugars (dextrose, Sugar), Salt, Stone Ground Whole Wheat Flour, White Vinegar, Calcium Propionate, Mono-and Diglycerides, Baking Powder, Potassium Sorbate, Citric Acid, Silicon Dioxide, l-cysteine Hydrochloride (vegetarian), Enzymes, Ascorbic Acid), \n\nROMAINE LETTUCE, ROMA TOMATO, CUCUMBER, \n\nTOUM (Garlic, Lemon juice, Water, Salt, Canola oil), \n\nPICKLED TURNIP (White Vinegar, Water, Salt, Sugar, Bay leaf, Turnip, Beet)",
+          "ingredients": "FALAFEL (Chickpeas, water, canola/sunflower oil, chickpea flour, potato flakes (potatoes, mono and diglycerides, sodium acid pyrophosphate, citric acid), baking powder, salt, onion powder, garlic powder, sugar (dextrose), dextrin, chicory root fibers (inulin), powdered cellulose, spices), \n\nPEPPERONCINI (Peppers, Water, Salt, Acetic Acid, Citric Acid, Sodium Benzoate, Sodium Bisulphite, Tartrazine), \n\nPITA BREAD (Enriched Wheat Flour, Water, Soybean And/or Canola Oil, Yeast, Sugars (dextrose, Sugar), Salt, Stone Ground Whole Wheat Flour, White Vinegar, Calcium Propionate, Mono-and Diglycerides, Baking Powder, Potassium Sorbate, Citric Acid, Silicon Dioxide, l-cysteine Hydrochloride (vegetarian), Enzymes, Ascorbic Acid), \n\nROMAINE LETTUCE, ROMA TOMATO, CUCUMBER, \n\nTOUM (Garlic, Lemon juice, Water, Salt, Canola oil), \n\nPICKLED TURNIP (White Vinegar, Water, Salt, Sugar, Bay leaf, Turnip, Beet)",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -9365,11 +9545,101 @@
           ]
         },
         {
-          "name": "Assorted Fruit",
+          "name": "Tri-Berry Blend",
           "station": null,
           "category": null,
-          "description": "Subject to Availability - On Rotation",
-          "ingredients": "Strawberries, mangos, pears, melons, raspberries, pineapple, honeydew, or cantaloupe (in their own juices - no sugar added)",
+          "description": "On Rotation - Subject to Availability",
+          "ingredients": "Blueberries, Blackberries, Raspberries (in their own juice, no sugar added)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "No Known Priority Allergens",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Blueberries",
+          "station": null,
+          "category": null,
+          "description": "On Rotation - Subject to Availability",
+          "ingredients": "Blackberries (in their own juice, no sugar added)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "No Known Priority Allergens",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Blackberries",
+          "station": null,
+          "category": null,
+          "description": "On Rotation - Subject to Availability",
+          "ingredients": "Blackberries (in their own juice, no sugar added)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "No Known Priority Allergens",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Strawberries",
+          "station": null,
+          "category": null,
+          "description": "On Rotation - Subject to Availability",
+          "ingredients": "Strawberries (in their own juice, no sugar added)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "No Known Priority Allergens",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Pineapple Chunks",
+          "station": null,
+          "category": null,
+          "description": "On Rotation - Subject to Availability",
+          "ingredients": "Pineapple chunks (in its own juice, no sugar added)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "No Known Priority Allergens",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Mango Chunks",
+          "station": null,
+          "category": null,
+          "description": "On Rotation - Subject to Availability",
+          "ingredients": "Mango chunks (in their own juice, no sugar added)",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -9386,7 +9656,7 @@
           "name": "Diced Peaches",
           "station": null,
           "category": null,
-          "description": "On Rotation",
+          "description": "On Rotation - Subject to Availability",
           "ingredients": "DICED PEACHES, PEAR JUICE, CITRIC ACID, WATER",
           "serving_size": {
             "amount": null,
