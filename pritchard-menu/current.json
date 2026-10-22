@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T04:43:03.708023-07:00",
+  "generated_at": "2026-10-22T09:06:07.977010-07:00",
   "timezone": "America/Vancouver",
   "date": "2026-10-22",
   "location": "Pritchard Dining Hall, UBC Okanagan",
@@ -11,11 +11,11 @@
       "date": "2026-10-22",
       "items": [
         {
-          "name": "Ham and Egg Benny",
+          "name": "Classic French Toast",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "ENGLISH MUFFIN (whole wheat flour, water, yeast, salt, sucrose/glucose-fructose, canola oil, wheat gluten, monocalcium phosphate, calcium propionate, ammonium chloride, acetylated tartaric acid esters of mono and diglycerides, calcium peroxide, ascorbic acid, azodicarbonamide, corn meal), \n\nEGG, \n\nHOLLANDAISE SAUCE (water, canola oil, cage free egg yolk, modified corn starch, natural flavors, lemon juice concentrate, sea salt, white pepper, acetic acid, xanthan and guar gum, natural color, phospholipase), \n\nBLACK FOREST HAM (pork, water, flavour (contains rice starch), sugar, salt, sodium phosphate, potassium lactate, carrageenan, sodium diacetate, sodium erythorbate, sodium nitrite, smoke)",
+          "ingredients": "SOURDOUGH BREAD (enriched wheat flour, salt, encapsulated fumaric acid (fumaric acid, modified palm oil), fumaric acid, sunflower oil, sodium diacetate, laCtic acid, silicon dioxide, ascorbic acid, l-cysteine hydrochloride, amylase, conditioner for base: enriched wheat flour, diacetyl tartaric acid esters of mono and diglycerides, calcium carbonate, sunflower oil, ascorbic acid, amylase, xylanase, lipase, l-cysteine hydrochloride), LIQUID EGG (Whole egg, Sodium Phosphate, Citric Acid), MILK, ICING SUGAR, CINNAMON, ARTIFICIAL VANILLA EXTRACT (Water, Alcohol, Caramel, Artificial flavour), MAPLE SYRUP\nEGG,",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -23,27 +23,9 @@
           "nutrition": {},
           "dietary_icons": [
             "Egg",
+            "Milk",
             "Gluten",
             "Wheat"
-          ]
-        },
-        {
-          "name": "Basic Eggs Benny",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "ENGLISH MUFFIN (whole wheat flour, water, yeast, salt, sucrose/glucose-fructose, canola oil, wheat gluten, monocalcium phosphate, calcium propionate, ammonium chloride, acetylated tartaric acid esters of mono and diglycerides, calcium peroxide, ascorbic acid, azodicarbonamide, corn meal), EGG, HOLLANDAISE SAUCE (water, canola oil, cage free egg yolk, modified corn starch, natural flavors, lemon juice concentrate, sea salt, white pepper, acetic acid, xanthan and guar gum, natural color, phospholipase)",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Egg",
-            "Soy",
-            "Gluten",
-            "Wheat",
-            "Vegetarian"
           ]
         },
         {
