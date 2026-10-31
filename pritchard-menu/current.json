@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T16:17:42.138963-07:00",
+  "generated_at": "2026-10-30T19:31:20.293182-07:00",
   "timezone": "America/Vancouver",
   "date": "2026-10-30",
   "location": "Pritchard Dining Hall, UBC Okanagan",
@@ -7154,26 +7154,6 @@
           ]
         },
         {
-          "name": "General Tso's Chicken",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "GENERAL TSO SAUCE (Golden yellow sugar, chicken soup base (Ground chicken, Salt, Sugars (sugar, corn maltodextrin), Rendered chicken fat, Hydrolyzed wheat, corn and soy protein, Modified milk ingredient, Yeast extract, Onion powder, Hydrogenated cottonseed oil, Disodium inosinate, Disodium guanylate, Vegetable oil, Rosemary extract, Turmeric extract, Flavour (celery)), Shaoxing Wine (rice, water, wheat-based yeast, alcohol), White Vinegar, Rice Vinegar (distilled vinegar, rice vinegar, refiners' syrup, salt, diluted with water to 4.2% acidity), Sesame Oil, Cornstarch, Water)), \n\nTEMPURA CHICKEN PIECES (Chicken breast pieces, Water, Toasted wheat crumbs, Wheat flour, Modified corn starch, Canola and/or soy oil, Rice starch, Soy protein isolate, Modified palm oil, Salt, Sugars (dextrose, sugar), Natural flavour, Sodium phosphate, Baking powder, Methylcellulose, Extratives of annato, Spice extractives), \n\nGARLIC, GINGER, RED THAI CHILI PEPPERS, GREEN ONION, CANOLA OIL",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Milk",
-            "Soy",
-            "Sulphites",
-            "Sesame",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
           "name": "Pork Dry Ribs",
           "station": null,
           "category": null,
@@ -7430,22 +7410,6 @@
             "Soy",
             "Vegetarian",
             "Vegan",
-            "Made Without Gluten"
-          ]
-        },
-        {
-          "name": "Roasted Chicken",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "ROASTED CHICKEN (chicken, salt, black pepper, canola oil)",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Halal Protein",
             "Made Without Gluten"
           ]
         },
