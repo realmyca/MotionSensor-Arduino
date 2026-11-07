@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T13:50:23.422892-07:00",
+  "generated_at": "2026-11-06T17:29:55.554713-07:00",
   "timezone": "America/Vancouver",
   "date": "2026-11-06",
   "location": "Pritchard Dining Hall, UBC Okanagan",
@@ -2883,24 +2883,6 @@
           "dietary_icons": [
             "Soy",
             "Sulphites",
-            "Mustard",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Basic Burger",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "BEEF BURGER (Beef, Water, Soy flour, soy protein concentrate, Salt, Spice (mustard), Onion powder, Garlic powder), \n\nHAMBURGER BUN (enriched wheat flour, water, sugar, yeast, wheat gluten, soybean and/or canola oil, salt, calcium propionate, diacetyl tartaric acid esters of mono- and di-glycerides, sodium stearoyl-2-lactylate, vegetable monoglycerides),",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Soy",
             "Mustard",
             "Gluten",
             "Wheat"
