@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T09:54:10.143959-07:00",
+  "generated_at": "2026-11-12T15:41:25.615962-07:00",
   "timezone": "America/Vancouver",
   "date": "2026-11-12",
   "location": "Pritchard Dining Hall, UBC Okanagan",
@@ -11,11 +11,11 @@
       "date": "2026-11-12",
       "items": [
         {
-          "name": "Classic French Toast",
+          "name": "Basic Eggs Benny",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "SOURDOUGH BREAD (enriched wheat flour, salt, encapsulated fumaric acid (fumaric acid, modified palm oil), fumaric acid, sunflower oil, sodium diacetate, laCtic acid, silicon dioxide, ascorbic acid, l-cysteine hydrochloride, amylase, conditioner for base: enriched wheat flour, diacetyl tartaric acid esters of mono and diglycerides, calcium carbonate, sunflower oil, ascorbic acid, amylase, xylanase, lipase, l-cysteine hydrochloride), LIQUID EGG (Whole egg, Sodium Phosphate, Citric Acid), MILK, ICING SUGAR, CINNAMON, ARTIFICIAL VANILLA EXTRACT (Water, Alcohol, Caramel, Artificial flavour), MAPLE SYRUP\nEGG,",
+          "ingredients": "ENGLISH MUFFIN (whole wheat flour, water, yeast, salt, sucrose/glucose-fructose, canola oil, wheat gluten, monocalcium phosphate, calcium propionate, ammonium chloride, acetylated tartaric acid esters of mono and diglycerides, calcium peroxide, ascorbic acid, azodicarbonamide, corn meal), \n\nEGG, \n\nHOLLANDAISE SAUCE (water, canola oil, cage free egg yolk, modified corn starch, natural flavors, lemon juice concentrate, sea salt, white pepper, acetic acid, xanthan and guar gum, natural color, phospholipase)",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -23,17 +23,18 @@
           "nutrition": {},
           "dietary_icons": [
             "Egg",
-            "Milk",
+            "Soy",
             "Gluten",
-            "Wheat"
+            "Wheat",
+            "Vegetarian"
           ]
         },
         {
-          "name": "Vanilla French toast",
+          "name": "Ham & Egg Benny",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "STRAWBERRIES (strawberries, sugar), \n\nMAPLE SYRUP, \n\nHEMP HEARTS, \n\nFRENCH TOAST BATTER (egg, milk, artificial vanilla extract, cinnamon, icing sugar), \n\nMULTIGRAIN BREAD (whole wheat flour, semolina, salt, sugar, S500 dough conditioner, water, canola oil, yeast, molasses, multigrain seed mix (rye, barley, brown flax, millet, wheat, sunflower seeds, triticale, oats, sesame seeds)), \n\nVANILLA YOGURT (skim milk, vanilla flavoured preparation (fructose, water, natural flavours, modified corn starch, malic acid, sodium citrate), modified milk ingredients, modified corn starch, agar, active bacterial cultures, vitamin A palmitate, vitamin D3)",
+          "ingredients": "ENGLISH MUFFIN (whole wheat flour, water, yeast, salt, sucrose/glucose-fructose, canola oil, wheat gluten, monocalcium phosphate, calcium propionate, ammonium chloride, acetylated tartaric acid esters of mono and diglycerides, calcium peroxide, ascorbic acid, azodicarbonamide, corn meal), \n\nEGG, BLACK FOREST HAM, \n\nHOLLANDAISE SAUCE (water, canola oil, cage free egg yolk, modified corn starch, natural flavors, lemon juice concentrate, sea salt, white pepper, acetic acid, xanthan and guar gum, natural color, phospholipase)",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -41,8 +42,7 @@
           "nutrition": {},
           "dietary_icons": [
             "Egg",
-            "Milk",
-            "Sesame",
+            "Soy",
             "Gluten",
             "Wheat",
             "Vegetarian"
@@ -2910,7 +2910,7 @@
           "station": null,
           "category": null,
           "description": "One dish can spark change! As members of the Menus of Change University Research Collaborative, we’re teaming up with universities nationwide for MCURC Day. On November 12, we’ll all be serving a dish inspired by the Menus of Change Principles: highlighting plant-forward ingredients, bold flavour, and sustainable choices.",
-          "ingredients": "BIRRIA SHRED (TMRW PLANT-BASED SHREDDED CHICKEN (Water, TMRW Plant Protein (pea protein isolate, GF Oat Flour, Rice Protein, Plant Nutrient Extract Blend (tomato, broccoli, carrot, shiitake mushrooms, cranberry, apple, orange)), Expeller Pressed Canola Oil, Natural Flavours (Yeast Extract, Salt, Coconut Oil, Celery Juice Powder, Carrot Juice Powder, Onion Juice Powder, Herbs), Apple Cider Vinegar, Spices), Canola oil, lemon, BIRRIA SAUCE (chili arbol, chili guajillo, bay leaf, smoked paprika, cinnamon, ground cloves, black pepper, salt, apple cider vinegar, tomato paste, water, shallots, garlic, Vegetable Mirepoix Base (Pureed vegetables (carrots, onions, celery), salt, sugar, corn maltodextrin, vegetable oils (corn, canola, sunflower) water, potato starch, xanthan gum, tapioca dextrin, carrot juice concentrate, autolyzed yeast extract, flavours)), \n\n\nOAXACA CHEESE (Milk, bacterial culture, salt), \n\nFRENCH BAGUETTE (Wheat Flour, Sour (Old Dough) Artisan, Yeast, Salt),\n\nVEGAN MAYONNAISE (Canola oil, Water, Sugar, Vinegar, Salt, Modified corn and potato starch, Concentrated lemon juice, Natural flavour, Spice extract, Calcium disodium EDTA (maintains flavour),\n\nTOMATO SLICES, LEMON WEDGE, CILANTRO, ICEBERG LETTUCE",
+          "ingredients": "BIRRIA SHRED (TMRW PLANT-BASED SHREDDED CHICKEN (Water, TMRW Plant Protein (pea protein isolate, GF Oat Flour, Rice Protein, Plant Nutrient Extract Blend (tomato, broccoli, carrot, shiitake mushrooms, cranberry, apple, orange)), Expeller Pressed Canola Oil, Natural Flavours (Yeast Extract, Salt, Coconut Oil, Celery Juice Powder, Carrot Juice Powder, Onion Juice Powder, Herbs), Apple Cider Vinegar, Spices), Canola oil, lemon, BIRRIA SAUCE (chili arbol, chili guajillo, bay leaf, smoked paprika, cinnamon, ground cloves, black pepper, salt, apple cider vinegar, tomato paste, water, shallots, garlic, Vegetable Mirepoix Base (Pureed vegetables (carrots, onions, celery), salt, sugar, corn maltodextrin, vegetable oils (corn, canola, sunflower) water, potato starch, xanthan gum, tapioca dextrin, carrot juice concentrate, autolyzed yeast extract, flavours)) onion, garlic, coriander, cumin, tomato paste, tomatoes, cilantro), \n\n\nOAXACA CHEESE (Milk, bacterial culture, salt), \n\nFRENCH BAGUETTE (Wheat Flour, Sour (Old Dough) Artisan, Yeast, Salt),\n\nVEGAN MAYONNAISE (Canola oil, Water, Sugar, Vinegar, Salt, Modified corn and potato starch, Concentrated lemon juice, Natural flavour, Spice extract, Calcium disodium EDTA (maintains flavour),\n\nTOMATO SLICES, LEMON WEDGE, CILANTRO, ICEBERG LETTUCE",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -2925,11 +2925,29 @@
           ]
         },
         {
+          "name": "Horchata",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "JASMINE RICE, ROASTED SESAME SEED, CASHEW NUTS, PUMPKIN SEEDS, COCOA POWDER, CORIANDER SEED, CINNAMON, SUGAR, WATER",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Sesame",
+            "Tree Nuts (Cashews)",
+            "Vegetarian",
+            "Vegan"
+          ]
+        },
+        {
           "name": "Birria-Torta Inspired Sandwich (Made-Without-Gluten Available Upon Request)",
           "station": null,
           "category": null,
           "description": "One dish can spark change! As members of the Menus of Change University Research Collaborative, we’re teaming up with universities nationwide for MCURC Day. On November 12, we’ll all be serving a dish inspired by the Menus of Change Principles: highlighting plant-forward ingredients, bold flavour, and sustainable choices.",
-          "ingredients": "BIRRIA SHRED (TMRW PLANT-BASED SHREDDED CHICKEN (Water, TMRW Plant Protein (pea protein isolate, GF Oat Flour, Rice Protein, Plant Nutrient Extract Blend (tomato, broccoli, carrot, shiitake mushrooms, cranberry, apple, orange)), Expeller Pressed Canola Oil, Natural Flavours (Yeast Extract, Salt, Coconut Oil, Celery Juice Powder, Carrot Juice Powder, Onion Juice Powder, Herbs), Apple Cider Vinegar, Spices), Canola oil, lemon, BIRRIA SAUCE (chili arbol, chili guajillo, bay leaf, smoked paprika, cinnamon, ground cloves, black pepper, salt, apple cider vinegar, tomato paste, water, shallots, garlic, Vegetable Mirepoix Base (Pureed vegetables (carrots, onions, celery), salt, sugar, corn maltodextrin, vegetable oils (corn, canola, sunflower) water, potato starch, xanthan gum, tapioca dextrin, carrot juice concentrate, autolyzed yeast extract, flavours)), \n\n\nOAXACA CHEESE (Milk, bacterial culture, salt), \n\nVEGAN MAYONNAISE (Canola oil, Water, Sugar, Vinegar, Salt, Modified corn and potato starch, Concentrated lemon juice, Natural flavour, Spice extract, Calcium disodium EDTA (maintains flavour),\n\nTOMATO SLICES, LEMON WEDGE, CILANTRO, ICEBERG LETTUCE, \n\nMADE-WITHOUT-GLUTEN HAMBURGER BUN (Water, Tapioca Starch, Brown Rice Flour, Canola Oil, Corn Starch, Dried Egg Whites, Sugar Cane Syrup, Tapioca Maltodextrin, Potato Flour, Cane Sugar, Tapioca Syrup, Yeast, Powdered Cellulose, Salt, Gum Xanthan Gum, Sodium Alginate, Guar Gum, Cultured Corn Syrup Solids, Corn Syrup Solids, Citric Acid Mold Inhibitor, Xanthan Gum, Calcium Sulfate, Alpha Amylase)",
+          "ingredients": "BIRRIA SHRED (TMRW PLANT-BASED SHREDDED CHICKEN (Water, TMRW Plant Protein (pea protein isolate, GF Oat Flour, Rice Protein, Plant Nutrient Extract Blend (tomato, broccoli, carrot, shiitake mushrooms, cranberry, apple, orange)), Expeller Pressed Canola Oil, Natural Flavours (Yeast Extract, Salt, Coconut Oil, Celery Juice Powder, Carrot Juice Powder, Onion Juice Powder, Herbs), Apple Cider Vinegar, Spices), Canola oil, lemon, BIRRIA SAUCE (chili arbol, chili guajillo, bay leaf, smoked paprika, cinnamon, ground cloves, black pepper, salt, apple cider vinegar, tomato paste, water, shallots, garlic, Vegetable Mirepoix Base (Pureed vegetables (carrots, onions, celery), salt, sugar, corn maltodextrin, vegetable oils (corn, canola, sunflower) water, potato starch, xanthan gum, tapioca dextrin, carrot juice concentrate, autolyzed yeast extract, flavours)) onion, garlic, coriander, cumin, tomato paste, tomatoes, cilantro), \n\n\nOAXACA CHEESE (Milk, bacterial culture, salt), \n\nVEGAN MAYONNAISE (Canola oil, Water, Sugar, Vinegar, Salt, Modified corn and potato starch, Concentrated lemon juice, Natural flavour, Spice extract, Calcium disodium EDTA (maintains flavour),\n\nTOMATO SLICES, LEMON WEDGE, CILANTRO, ICEBERG LETTUCE, \n\nMADE-WITHOUT-GLUTEN HAMBURGER BUN (Water, Tapioca Starch, Brown Rice Flour, Canola Oil, Corn Starch, Dried Egg Whites, Sugar Cane Syrup, Tapioca Maltodextrin, Potato Flour, Cane Sugar, Tapioca Syrup, Yeast, Powdered Cellulose, Salt, Gum Xanthan Gum, Sodium Alginate, Guar Gum, Cultured Corn Syrup Solids, Corn Syrup Solids, Citric Acid Mold Inhibitor, Xanthan Gum, Calcium Sulfate, Alpha Amylase)",
           "serving_size": {
             "amount": null,
             "unit": null
