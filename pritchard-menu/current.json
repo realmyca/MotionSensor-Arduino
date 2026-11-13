@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T03:51:04.572992-07:00",
+  "generated_at": "2026-11-13T11:18:17.020239-07:00",
   "timezone": "America/Vancouver",
   "date": "2026-11-13",
   "location": "Pritchard Dining Hall, UBC Okanagan",
@@ -10,46 +10,6 @@
     "breakfast": {
       "date": "2026-11-13",
       "items": [
-        {
-          "name": "Apple Pancake Bites",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "PANCAKE BITES (Water, Enriched wheat flour, Sugar, Canola oil, Modified milk ingredients, Dried whole egg, Glycerin, Baking soda, Salt, Sodium acid pyrophosphate, Citric acid, Soy lecithin, Natural flavour (milk)), \n\nORGANIC MAPLE SYRUP, \n\nICING SUGAR, \n\nAPPLES, \n\nBASIL",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Egg",
-            "Milk",
-            "Soy",
-            "Gluten",
-            "Wheat",
-            "Vegetarian"
-          ]
-        },
-        {
-          "name": "Maple Pancake Bites",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "PANCAKE BITES (water, enriched wheat flour, sugar, canola oil, modified milk ingredients, dried whole egg, glycerin, baking soda, salt, sodium acid pyrophosphate, citric acid, soy lecithin, natural flavour (milk)), \n\nMAPLE SYRUP, \n\nICING SUGAR",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Egg",
-            "Milk",
-            "Soy",
-            "Gluten",
-            "Wheat",
-            "Vegetarian"
-          ]
-        },
         {
           "name": "Turkey Sausage",
           "station": null,
@@ -7110,16 +7070,15 @@
           "dietary_icons": [
             "Halal Protein",
             "Vegetarian",
-            "Vegan",
-            "Made Without Gluten"
+            "Vegan"
           ]
         },
         {
-          "name": "Sweet and Sour Tofu Bites",
+          "name": "Lemon Tofu Puffs",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "TOFU PUFF (Water, Soybeans (non-GMO), Canola oil, Magnesium chloride), \n\nKETCHUP (Tomato paste (from fresh, ripe tomatoes), Sugar, Vinegar, Salt, Spices), \n\nSUGAR, WHITE VINEGAR, SALT, CORNSTARCH, \n\nGREEN PEPPER, RED PEPPER, RED ONION, YELLOW ONION, PINEAPPLE (pineapple, sugar, citric acid), \n\nCANOLA OIL",
+          "ingredients": "SUNRISE TOFU PUFFS (Water, Soybeans (non-GMO), Canola oil, Magnesium chloride), \n\nASIAN MIX VEGETABLES(), \n\nLEMON SAUCE (Lemon juice, Lemon zest, Lemongrass, GF Tamari Soy Sauce (Water, Soybeans, Salt, Sugar, Brewing Starter (Aspergillus Sojae)), Bay leaf, Ginger, Garlic, Water, Vegetable Mirepoix Base (Pureed vegetables (carrots, onions, celery), salt, sugar, corn maltodextrin, vegetable oils (corn, canola, sunflower) water, potato starch, xanthan gum, tapioca dextrin, carrot juice concentrate, autolyzed yeast extract, flavours), Cornstarch, Sugar, Salt, Rice Vinegar), \n\n\nCANOLA OIL",
           "serving_size": {
             "amount": null,
             "unit": null
@@ -7131,6 +7090,44 @@
             "Vegetarian",
             "Vegan",
             "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Fried Rice",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "JASMIN RICE, \n\nLIQUID EGG (Whole egg, sodium phosphate, citric acid), \n\nSHAOXING WINE (rice, water, wheat-based yeast, alcohol), \n\nSESAME OIL, \n\nYELLOW ONION, CARROT, GREEN ONION, GARLIC, GREEN PEAS, SALT, CANOLA OIL, \n\nSAUCE (Gluten-free tamari soy sauce (Water, Soybeans, Salt, Sugar, Brewing Starter (Aspergillus Sojae)), sugar)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Egg",
+            "Sulphites",
+            "Sesame",
+            "Gluten",
+            "Wheat",
+            "Vegetarian"
+          ]
+        },
+        {
+          "name": "Vegetable Egg Rolls",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "Filling (cabbage, Green Bean, Celery, Water Chestnut, Corn, Carrot, Onion, Green Onion, Peas, Modified Corn Starch, Garlic In Oil (garlic, Canola Oil, Water, Citric Acid), Salt, Sugar, Spices), Wrapper (wheat Flour, Water, Liquid Whole Egg, Salt, Sodium Propionate, Mono- And Diglycerides, Sodium Stearoyl-lactate), Canola Oil.",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Egg",
+            "Gluten",
+            "Wheat",
+            "Vegetarian"
           ]
         },
         {
@@ -7154,80 +7151,20 @@
           ]
         },
         {
-          "name": "Pork Dry Ribs",
+          "name": "Sweet & Sour Boneless Pork Ribs",
           "station": null,
           "category": null,
           "description": null,
-          "ingredients": "DRY RIBS (Pork ribs, marinade (Chinese 5 spice, sugar, white pepper, Shaoxing Wine (rice, water, wheat-based yeast, alcohol), GF Tamari Soy Sauce (Water, Soybeans, Salt, Sugar, Brewing Starter (Aspergillus Sojae)), canola oil), Cornstarch)), \n\nRIB SPICE (Chinese 5 spice, salt, white pepper, sugar), \n\nRED THAI CHILI PEPPERS, GARLIC, CILANTRO, GREEN ONION, CANOLA OIL",
+          "ingredients": "BONELESS PORK RIBS (Pork ribs, Breading (TBD)), \n\nSWEET & SOUR VEGETABLES (Red onion, Yellow onion, Green pepper, Red pepper, Pineapple (Pineapple, Water, Sugar, Citric Acid)), \n\nSWEET & SOUR SAUCE (Ketchup (Tomato paste (from fresh, ripe tomatoes), Sugar, Vinegar, Salt, Spices), Brown sugar, Water, White vinegar, Salt, Cornstarch), \n\nCANOLA OIL",
           "serving_size": {
             "amount": null,
             "unit": null
           },
           "nutrition": {},
           "dietary_icons": [
-            "Soy",
             "Sulphites",
             "Gluten",
             "Wheat"
-          ]
-        },
-        {
-          "name": "Chop Suey",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "CABBAGE, CARROT, CELERY, YELLOW ONION, RED PEPPER, GREEN PEPPER, BEAN SPROUTS, \n\nSESAME OIL, GLUTEN-FREE TAMARI SOY SAUCE (Water, Soybeans, Salt, Sugar, Brewing Starter (Aspergillus Sojae)), WATER, \n\nVEGETABLE MIREPOIX (Pureed vegetables (carrots, onions, celery), salt, sugar, corn maltodextrin, vegetable oils (corn, canola, sunflower) water, potato starch, xanthan gum, tapioca dextrin, carrot juice concentrate, autolyzed yeast extract, flavours), \n\nHOISIN SAUCE (Water, Sugar, Pineapple, Soy Sauce (Water, Fermented Soybeans, Wheat, Salt, Maltodextrin, Salt, Modified Corn Starch, Hydrolyzed (Corn, Soy, Wheat) Protein, Vinegar, Caramel Colour, Ginger, Spices, Xanthan Gum, Cooking Liquor (Alcohol), Sodium Benzoate)), \n\nCORNSTARCH, CANOLA OIL",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Soy",
-            "Sulphites",
-            "Sesame",
-            "Gluten",
-            "Wheat",
-            "Vegetarian",
-            "Vegan"
-          ]
-        },
-        {
-          "name": "Vegetable Egg Rolls",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "Filling (cabbage, Green Bean, Celery, Water Chestnut, Corn, Carrot, Onion, Green Onion, Peas, Modified Corn Starch, Garlic In Oil (garlic, Canola Oil, Water, Citric Acid), Salt, Sugar, Spices), Wrapper (wheat Flour, Water, Liquid Whole Egg, Salt, Sodium Propionate, Mono- And Diglycerides, Sodium Stearoyl-lactate), Canola Oil.",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Egg",
-            "Gluten",
-            "Wheat",
-            "Vegetarian"
-          ]
-        },
-        {
-          "name": "Fried Rice",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "JASMIN RICE, \n\nLIQUID EGG (Whole egg, sodium phosphate, citric acid), \n\nSHAOXING WINE (rice, water, wheat-based yeast, alcohol), \n\nSESAME OIL, \n\nYELLOW ONION, CARROT, GREEN ONION, GARLIC, GREEN PEAS, SALT, CANOLA OIL, \n\nSAUCE (Gluten-free tamari soy sauce (Water, Soybeans, Salt, Sugar, Brewing Starter (Aspergillus Sojae)), sugar)",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Egg",
-            "Sulphites",
-            "Sesame",
-            "Gluten",
-            "Wheat",
-            "Vegetarian"
           ]
         },
         {
@@ -7282,6 +7219,24 @@
             "Vegetarian",
             "Vegan",
             "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Crispy Fried Onion",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "CRISPY FRIED ONION (Onion, Modified palm oil, Wheat flour, Sugars (dextrose), Salt)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Gluten",
+            "Wheat",
+            "Vegetarian",
+            "Vegan"
           ]
         },
         {
